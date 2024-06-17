@@ -1,0 +1,609 @@
+,name,alias,data_collection,enrich_name,enrich_field_name,description,vintage,units
+6772,X2001_A,2023 Avg: Alcoholic Bevs,food,food.X2001_A,food_X2001_A,2023 Alcoholic Beverages: Average,2023,currency
+6775,X2002_A,2023 Avg: Alcoholic Bevs at Home,food,food.X2002_A,food_X2002_A,2023 Alcoholic Beverages at Home: Average,2023,currency
+6778,X2003_A,2023 Avg: Beer/Ale at Home,food,food.X2003_A,food_X2003_A,2023 Beer & Ale At Home: Average,2023,currency
+6781,X2004_A,2023 Avg: Whiskey at Home,food,food.X2004_A,food_X2004_A,2023 Whiskey At Home: Average,2023,currency
+6784,X2005_A,2023 Avg: Wine at Home,food,food.X2005_A,food_X2005_A,2023 Wine At Home: Average,2023,currency
+6787,X2006_A,2023 Avg: Oth Alcohol at Home,food,food.X2006_A,food_X2006_A,2023 Other Alcohol At Home: Average,2023,currency
+6790,X2007_A,2023 Avg: Alcoholic Bevs Away from Home,food,food.X2007_A,food_X2007_A,2023 Alcoholic Beverages Away from Home: Average,2023,currency
+6793,X2008_A,2023 Avg: Beer/Ale Away from Home,food,food.X2008_A,food_X2008_A,2023 Beer & Ale Away from Home: Average,2023,currency
+6796,X2009_A,2023 Avg: Beer/Ale at Full Svc Restaurant,food,food.X2009_A,food_X2009_A,2023 Beer & Ale at Full Service Restaurant: Average,2023,currency
+6799,X2010_A,2023 Avg: Beer/Ale at Fast Food/Take-Out/Deliv/Vend,food,food.X2010_A,food_X2010_A,2023 Beer & Ale at Fast Food/Take-Out/Delivery/Vending: Average,2023,currency
+6802,X2011_A,2023 Avg: Wine Away from Home,food,food.X2011_A,food_X2011_A,2023 Wine Away from Home: Average,2023,currency
+6805,X2012_A,2023 Avg: Wine at Full Svc Restaurant,food,food.X2012_A,food_X2012_A,2023 Wine at Full Service Restaurant: Average,2023,currency
+6808,X2013_A,2023 Avg: Wine at Fast Food/Take-Out/Deliv/Vend,food,food.X2013_A,food_X2013_A,2023 Wine at Fast Food/Take-Out/Delivery/Vending: Average,2023,currency
+6811,X2014_A,2023 Avg: Oth Alcohol Away from Home,food,food.X2014_A,food_X2014_A,2023 Other Alcohol Away from Home: Average,2023,currency
+6814,X2015_A,2023 Avg: Oth Alcohol at Full Svc Restaurant,food,food.X2015_A,food_X2015_A,2023 Other Alcohol at Full Service Restaurant: Average,2023,currency
+6817,X2016_A,2023 Avg: Oth Alcohol at Fast Food/Take-Out/Deliv/Vend,food,food.X2016_A,food_X2016_A,2023 Other Alcohol at Fast Food/Take-Out/Delivery/Vending: Average,2023,currency
+6820,X1131_A,2023 Avg: Meals at Restaurants/Other,food,food.X1131_A,food_X1131_A,2023 Meals at Restaurants/Other: Average,2023,currency
+6823,X1132_A,2023 Avg: Lunch Away from Home,food,food.X1132_A,food_X1132_A,2023 Lunch Away from Home: Average,2023,currency
+6826,X1133_A,2023 Avg: Lunch at Fast Food/Take-Out/Deliv,food,food.X1133_A,food_X1133_A,2023 Lunch at Fast Food/Take-Out/Delivery: Average,2023,currency
+6829,X1134_A,2023 Avg: Lunch at Full Svc Restaurants,food,food.X1134_A,food_X1134_A,2023 Lunch at Full Service Restaurants: Average,2023,currency
+6832,X1135_A,2023 Avg: Lunch at Employer/School Cafe,food,food.X1135_A,food_X1135_A,2023 Lunch at Employer/School Cafe: Average,2023,currency
+6835,X1136_A,2023 Avg: Lunch at Vend/Mobile Vendors,food,food.X1136_A,food_X1136_A,2023 Lunch at Vending/Mobile Vendors: Average,2023,currency
+6838,X1137_A,2023 Avg: Dinner Away from Home,food,food.X1137_A,food_X1137_A,2023 Dinner Away from Home: Average,2023,currency
+6841,X1138_A,2023 Avg: Dinner at Fast Food/Take-Out/Deliv,food,food.X1138_A,food_X1138_A,2023 Dinner at Fast Food/Take-Out/Delivery: Average,2023,currency
+6844,X1139_A,2023 Avg: Dinner at Full Svc Restaurants,food,food.X1139_A,food_X1139_A,2023 Dinner at Full Service Restaurants: Average,2023,currency
+6847,X1140_A,2023 Avg: Dinner at Employer/School Cafe,food,food.X1140_A,food_X1140_A,2023 Dinner at Employer/School Cafe: Average,2023,currency
+6850,X1141_A,2023 Avg: Dinner at Vend/Mobile Vendors,food,food.X1141_A,food_X1141_A,2023 Dinner at Vending/Mobile Vendors: Average,2023,currency
+6853,X1142_A,2023 Avg: Snacks/Bevs Away from Home,food,food.X1142_A,food_X1142_A,2023 Snacks & Beverages Away from Home: Average,2023,currency
+6856,X1143_A,2023 Avg: Snacks at Fast Food/Take-Out/Deliv,food,food.X1143_A,food_X1143_A,2023 Snacks at Fast Food/Take-Out/Delivery: Average,2023,currency
+6859,X1144_A,2023 Avg: Snacks/Bevs at Full Svc Restaurants,food,food.X1144_A,food_X1144_A,2023 Snacks/Beverages at Full Service Restaurants: Average,2023,currency
+6862,X1145_A,2023 Avg: Snacks/Bevs at Employer/School Cafe,food,food.X1145_A,food_X1145_A,2023 Snacks/Beverages at Employer/School Cafe: Average,2023,currency
+6865,X1146_A,2023 Avg: Snacks/Bevs at Vend/Mobile Vendors,food,food.X1146_A,food_X1146_A,2023 Snacks/Beverages at Vending/Mobile Vendors: Average,2023,currency
+6868,X1147_A,2023 Avg: Breakfast/Brunch Away from Home,food,food.X1147_A,food_X1147_A,2023 Breakfast & Brunch Away from Home: Average,2023,currency
+6871,X1148_A,2023 Avg: Breakfast/Brunch at Fast Food/Take-Out/Deliv,food,food.X1148_A,food_X1148_A,2023 Breakfast/Brunch at Fast Food/Take-Out/Deliv: Average,2023,currency
+6874,X1149_A,2023 Avg: Breakfast/Brunch at Full Svc Restaurants,food,food.X1149_A,food_X1149_A,2023 Breakfast/Brunch at Full Service Restaurants: Average,2023,currency
+6877,X1150_A,2023 Avg: Breakfast/Brunch at Employer/School Cafe,food,food.X1150_A,food_X1150_A,2023 Breakfast/Brunch at Employer/School Cafe: Average,2023,currency
+6880,X1151_A,2023 Avg: Breakfast/Brunch at Vend/Mobile Vendors,food,food.X1151_A,food_X1151_A,2023 Breakfast/Brunch at Vending/Mobile Vendors: Average,2023,currency
+6883,X1152_A,2023 Avg: School Lunches,food,food.X1152_A,food_X1152_A,2023 School Lunches: Average,2023,currency
+6886,X1154_A,2023 Avg: Food and Board at School,food,food.X1154_A,food_X1154_A,2023 Food & Board at School: Average,2023,currency
+6889,X1155_A,2023 Avg: Catered Affairs,food,food.X1155_A,food_X1155_A,2023 Catered Affairs: Average,2023,currency
+6892,X1004_A,2023 Avg: Bakery/Cereal Prods,food,food.X1004_A,food_X1004_A,2023 Bakery & Cereal Products: Average,2023,currency
+6895,X1005_A,2023 Avg: Flour,food,food.X1005_A,food_X1005_A,2023 Flour: Average,2023,currency
+6898,X1006_A,2023 Avg: Prepared Flour Mixes,food,food.X1006_A,food_X1006_A,2023 Prepared Flour Mixes: Average,2023,currency
+6901,X1007_A,2023 Avg: Ready-To-Eat/Cooked Cereal,food,food.X1007_A,food_X1007_A,2023 Ready-To-Eat & Cooked Cereal: Average,2023,currency
+6904,X1008_A,2023 Avg: Rice,food,food.X1008_A,food_X1008_A,2023 Rice: Average,2023,currency
+6907,X1009_A,2023 Avg: Pasta/Cornmeal/Oth Cereal Prods,food,food.X1009_A,food_X1009_A,2023 Pasta/Cornmeal/Other Cereal Products: Average,2023,currency
+6910,X1010_A,2023 Avg: Bread,food,food.X1010_A,food_X1010_A,2023 Bread: Average,2023,currency
+6913,X1011_A,2023 Avg: White Bread,food,food.X1011_A,food_X1011_A,2023 White Bread: Average,2023,currency
+6916,X1012_A,2023 Avg: Bread Excl White,food,food.X1012_A,food_X1012_A,2023 Bread Excluding White: Average,2023,currency
+6919,X1013_A,2023 Avg: Crackers/Cookies,food,food.X1013_A,food_X1013_A,2023 Crackers & Cookies: Average,2023,currency
+6922,X1014_A,2023 Avg: Cookies,food,food.X1014_A,food_X1014_A,2023 Cookies: Average,2023,currency
+6925,X1015_A,2023 Avg: Crackers,food,food.X1015_A,food_X1015_A,2023 Crackers: Average,2023,currency
+6928,X1016_A,2023 Avg: Frozen/Refrigerated Bakery Goods,food,food.X1016_A,food_X1016_A,2023 Frozen & Refrigerated Bakery Goods: Average,2023,currency
+6931,X1017_A,2023 Avg: Oth Bakery Prods,food,food.X1017_A,food_X1017_A,2023 Other Bakery Products: Average,2023,currency
+6934,X1018_A,2023 Avg: Fresh Biscuits/Rolls,food,food.X1018_A,food_X1018_A,2023 Fresh Biscuits & Rolls: Average,2023,currency
+6937,X1019_A,2023 Avg: Fresh Cakes/Cupcakes,food,food.X1019_A,food_X1019_A,2023 Fresh Cakes & Cupcakes: Average,2023,currency
+6940,X1020_A,2023 Avg: Bread/Cracker Prods,food,food.X1020_A,food_X1020_A,2023 Bread & Cracker Products: Average,2023,currency
+6943,X1021_A,2023 Avg: Sweet Rolls/Coffee Cakes/Donuts,food,food.X1021_A,food_X1021_A,2023 Fresh Sweet Rolls/Coffee Cakes/Donuts: Average,2023,currency
+6946,X1022_A,2023 Avg: Fresh Pies/Tarts/Turnovers,food,food.X1022_A,food_X1022_A,2023 Fresh Pies/Tarts/Turnovers: Average,2023,currency
+6949,X1053_A,2023 Avg: Dairy Prods,food,food.X1053_A,food_X1053_A,2023 Dairy Products: Average,2023,currency
+6952,X1054_A,2023 Avg: Fresh Milk (All Types),food,food.X1054_A,food_X1054_A,2023 Fresh Milk (All Types): Average,2023,currency
+6955,X1055_A,2023 Avg: Cream,food,food.X1055_A,food_X1055_A,2023 Cream: Average,2023,currency
+6958,X1056_A,2023 Avg: Butter,food,food.X1056_A,food_X1056_A,2023 Butter: Average,2023,currency
+6961,X1057_A,2023 Avg: Cheese,food,food.X1057_A,food_X1057_A,2023 Cheese: Average,2023,currency
+6964,X1058_A,2023 Avg: Ice Cream/Related Prods,food,food.X1058_A,food_X1058_A,2023 Ice Cream & Related Products: Average,2023,currency
+6967,X1059_A,2023 Avg: Oth Dairy Prods,food,food.X1059_A,food_X1059_A,2023 Other Dairy Products: Average,2023,currency
+6970,X1060_A,2023 Avg: Fruit/Vegetables,food,food.X1060_A,food_X1060_A,2023 Fruit & Vegetables: Average,2023,currency
+6973,X1061_A,2023 Avg: Fresh Fruit,food,food.X1061_A,food_X1061_A,2023 Fresh Fruit: Average,2023,currency
+6976,X1062_A,2023 Avg: Apples,food,food.X1062_A,food_X1062_A,2023 Apples: Average,2023,currency
+6979,X1063_A,2023 Avg: Bananas,food,food.X1063_A,food_X1063_A,2023 Bananas: Average,2023,currency
+6982,X1064_A,2023 Avg: Oranges,food,food.X1064_A,food_X1064_A,2023 Oranges: Average,2023,currency
+6985,X1065_A,2023 Avg: Citrus Fruit Excl Oranges,food,food.X1065_A,food_X1065_A,2023 Citrus Fruit Excluding Oranges: Average,2023,currency
+6988,X1066_A,2023 Avg: Oth Fresh Fruit,food,food.X1066_A,food_X1066_A,2023 Other Fresh Fruit: Average,2023,currency
+6991,X1067_A,2023 Avg: Fresh Vegetables,food,food.X1067_A,food_X1067_A,2023 Fresh Vegetables: Average,2023,currency
+6994,X1068_A,2023 Avg: Potatoes,food,food.X1068_A,food_X1068_A,2023 Potatoes: Average,2023,currency
+6997,X1069_A,2023 Avg: Lettuce,food,food.X1069_A,food_X1069_A,2023 Lettuce: Average,2023,currency
+7000,X1070_A,2023 Avg: Tomatoes,food,food.X1070_A,food_X1070_A,2023 Tomatoes: Average,2023,currency
+7003,X1071_A,2023 Avg: Oth Fresh Vegetables,food,food.X1071_A,food_X1071_A,2023 Other Fresh Vegetables: Average,2023,currency
+7006,X1072_A,2023 Avg: Processed Fruit,food,food.X1072_A,food_X1072_A,2023 Processed Fruit: Average,2023,currency
+7009,X1073_A,2023 Avg: Frozen Fruit/Juice,food,food.X1073_A,food_X1073_A,2023 Frozen Fruit & Juice: Average,2023,currency
+7012,X1074_A,2023 Avg: Frozen Orange Juice,food,food.X1074_A,food_X1074_A,2023 Frozen Orange Juice: Average,2023,currency
+7015,X1075_A,2023 Avg: Frozen Fruit,food,food.X1075_A,food_X1075_A,2023 Frozen Fruit: Average,2023,currency
+7018,X1076_A,2023 Avg: Frozen Fruit Juice,food,food.X1076_A,food_X1076_A,2023 Frozen Fruit Juice: Average,2023,currency
+7021,X1077_A,2023 Avg: Canned Fruit,food,food.X1077_A,food_X1077_A,2023 Canned Fruit: Average,2023,currency
+7024,X1078_A,2023 Avg: Dried Fruit,food,food.X1078_A,food_X1078_A,2023 Dried Fruit: Average,2023,currency
+7027,X1079_A,2023 Avg: Fresh Fruit Juice,food,food.X1079_A,food_X1079_A,2023 Fresh Fruit Juice: Average,2023,currency
+7030,X1080_A,2023 Avg: Canned/Bottled Fruit Juice,food,food.X1080_A,food_X1080_A,2023 Canned/Bottled Fruit Juice: Average,2023,currency
+7033,X1081_A,2023 Avg: Processed Vegetables,food,food.X1081_A,food_X1081_A,2023 Processed Vegetables: Average,2023,currency
+7036,X1082_A,2023 Avg: Frozen Vegetables,food,food.X1082_A,food_X1082_A,2023 Frozen Vegetables: Average,2023,currency
+7039,X1083_A,2023 Avg: Vegetables Canned/Dried/Juice,food,food.X1083_A,food_X1083_A,2023 Vegetables Canned/Dried & Juice: Average,2023,currency
+7042,X1084_A,2023 Avg: Canned Beans,food,food.X1084_A,food_X1084_A,2023 Canned Beans: Average,2023,currency
+7045,X1085_A,2023 Avg: Canned Corn,food,food.X1085_A,food_X1085_A,2023 Canned Corn: Average,2023,currency
+7048,X1086_A,2023 Avg: Misc Canned Vegetables,food,food.X1086_A,food_X1086_A,2023 Miscellaneous Canned Vegetables: Average,2023,currency
+7051,X1087_A,2023 Avg: Dried Beans/Peas,food,food.X1087_A,food_X1087_A,2023 Dried Beans & Peas: Average,2023,currency
+7054,X1088_A,2023 Avg: Misc Dried Vegetables,food,food.X1088_A,food_X1088_A,2023 Miscellaneous Dried Vegetables: Average,2023,currency
+7057,X1089_A,2023 Avg: Vegetable Juice,food,food.X1089_A,food_X1089_A,2023 Vegetable Juice: Average,2023,currency
+7060,X1023_A,2023 Avg: Meat/Poultry/Fish/Eggs,food,food.X1023_A,food_X1023_A,2023 Meat/Poultry/Fish/Eggs: Average,2023,currency
+7063,X1024_A,2023 Avg: Beef,food,food.X1024_A,food_X1024_A,2023 Beef: Average,2023,currency
+7066,X1025_A,2023 Avg: Ground Beef,food,food.X1025_A,food_X1025_A,2023 Ground Beef: Average,2023,currency
+7069,X1026_A,2023 Avg: Chuck Roast,food,food.X1026_A,food_X1026_A,2023 Chuck Roast: Average,2023,currency
+7072,X1027_A,2023 Avg: Round Roast,food,food.X1027_A,food_X1027_A,2023 Round Roast: Average,2023,currency
+7075,X1028_A,2023 Avg: Oth Roast,food,food.X1028_A,food_X1028_A,2023 Other Roast: Average,2023,currency
+7078,X1029_A,2023 Avg: Round Steak,food,food.X1029_A,food_X1029_A,2023 Round Steak: Average,2023,currency
+7081,X1030_A,2023 Avg: Sirloin Steak,food,food.X1030_A,food_X1030_A,2023 Sirloin Steak: Average,2023,currency
+7084,X1031_A,2023 Avg: Oth Steak,food,food.X1031_A,food_X1031_A,2023 Other Steak: Average,2023,currency
+7087,X1032_A,2023 Avg: Oth Beef,food,food.X1032_A,food_X1032_A,2023 Other Beef: Average,2023,currency
+7090,X1033_A,2023 Avg: Pork,food,food.X1033_A,food_X1033_A,2023 Pork: Average,2023,currency
+7093,X1034_A,2023 Avg: Bacon,food,food.X1034_A,food_X1034_A,2023 Bacon: Average,2023,currency
+7096,X1035_A,2023 Avg: Pork Chops,food,food.X1035_A,food_X1035_A,2023 Pork Chops: Average,2023,currency
+7099,X1036_A,2023 Avg: Ham,food,food.X1036_A,food_X1036_A,2023 Ham: Average,2023,currency
+7102,X1037_A,2023 Avg: Sausage,food,food.X1037_A,food_X1037_A,2023 Sausage: Average,2023,currency
+7105,X1038_A,2023 Avg: Oth Pork,food,food.X1038_A,food_X1038_A,2023 Other Pork: Average,2023,currency
+7108,X1039_A,2023 Avg: Oth Meat,food,food.X1039_A,food_X1039_A,2023 Other Meat: Average,2023,currency
+7111,X1040_A,2023 Avg: Frankfurters,food,food.X1040_A,food_X1040_A,2023 Frankfurters: Average,2023,currency
+7114,X1041_A,2023 Avg: Bologna/Liverwurst/Salami,food,food.X1041_A,food_X1041_A,2023 Bologna/Liverwurst/Salami: Average,2023,currency
+7117,X1042_A,2023 Avg: Oth Lunchmeat,food,food.X1042_A,food_X1042_A,2023 Other Lunchmeat: Average,2023,currency
+7120,X1043_A,2023 Avg: Lamb/Oth Meat,food,food.X1043_A,food_X1043_A,2023 Lamb & Other Meat: Average,2023,currency
+7123,X1044_A,2023 Avg: Poultry,food,food.X1044_A,food_X1044_A,2023 Poultry: Average,2023,currency
+7126,X1045_A,2023 Avg: Whole Chickens,food,food.X1045_A,food_X1045_A,2023 Whole Chickens: Average,2023,currency
+7129,X1046_A,2023 Avg: Chicken Parts,food,food.X1046_A,food_X1046_A,2023 Chicken Parts: Average,2023,currency
+7132,X1047_A,2023 Avg: Oth Poultry,food,food.X1047_A,food_X1047_A,2023 Other Poultry: Average,2023,currency
+7135,X1048_A,2023 Avg: Seafood,food,food.X1048_A,food_X1048_A,2023 Seafood: Average,2023,currency
+7138,X1049_A,2023 Avg: Canned Fish/Shellfish,food,food.X1049_A,food_X1049_A,2023 Canned Fish & Shellfish: Average,2023,currency
+7141,X1050_A,2023 Avg: Fresh Fish/Shellfish,food,food.X1050_A,food_X1050_A,2023 Fresh Fish & Shellfish: Average,2023,currency
+7144,X1051_A,2023 Avg: Frozen Fish/Shellfish,food,food.X1051_A,food_X1051_A,2023 Frozen Fish & Shellfish: Average,2023,currency
+7147,X1052_A,2023 Avg: Eggs,food,food.X1052_A,food_X1052_A,2023 Eggs: Average,2023,currency
+7150,X1119_A,2023 Avg: Nonalcoholic Bevs,food,food.X1119_A,food_X1119_A,2023 Nonalcoholic Beverages: Average,2023,currency
+7153,X1120_A,2023 Avg: Cola Drinks,food,food.X1120_A,food_X1120_A,2023 Cola Drinks: Average,2023,currency
+7156,X1121_A,2023 Avg: Oth Carbonated Drinks,food,food.X1121_A,food_X1121_A,2023 Other Carbonated Drinks: Average,2023,currency
+7159,X1122_A,2023 Avg: Coffee,food,food.X1122_A,food_X1122_A,2023 Coffee: Average,2023,currency
+7162,X1123_A,2023 Avg: Roasted Coffee,food,food.X1123_A,food_X1123_A,2023 Roasted Coffee: Average,2023,currency
+7165,X1124_A,2023 Avg: Instant/Freeze-Dried Coffee,food,food.X1124_A,food_X1124_A,2023 Instant/Freeze-Dried Coffee: Average,2023,currency
+7168,X1125_A,2023 Avg: Tea,food,food.X1125_A,food_X1125_A,2023 Tea: Average,2023,currency
+7171,X1126_A,2023 Avg: Noncarbonated Fruit Drinks,food,food.X1126_A,food_X1126_A,2023 Noncarbonated Fruit Drinks: Average,2023,currency
+7174,X1127_A,2023 Avg: Sports Drinks,food,food.X1127_A,food_X1127_A,2023 Sports Drinks: Average,2023,currency
+7177,X1128_A,2023 Avg: Oth Noncarb Bevs(Excl Water)/Ice,food,food.X1128_A,food_X1128_A,2023 Other Noncarb Beverages(Excl Water) & Ice: Average,2023,currency
+7180,X1129_A,2023 Avg: Bottled Water,food,food.X1129_A,food_X1129_A,2023 Bottled Water: Average,2023,currency
+7183,X1090_A,2023 Avg: Snacks/Oth Food,food,food.X1090_A,food_X1090_A,2023 Snacks/Other Food: Average,2023,currency
+7186,X1091_A,2023 Avg: Sugar/Oth Sweets,food,food.X1091_A,food_X1091_A,2023 Sugar & Other Sweets: Average,2023,currency
+7189,X1092_A,2023 Avg: Candy/Chewing Gum,food,food.X1092_A,food_X1092_A,2023 Candy & Chewing Gum: Average,2023,currency
+7192,X1093_A,2023 Avg: Sugar,food,food.X1093_A,food_X1093_A,2023 Sugar: Average,2023,currency
+7195,X1094_A,2023 Avg: Artificial Sweeteners,food,food.X1094_A,food_X1094_A,2023 Artificial Sweeteners: Average,2023,currency
+7198,X1095_A,2023 Avg: Jam/Preserves/Oth Sweets,food,food.X1095_A,food_X1095_A,2023 Jam/Preserves & Other Sweets: Average,2023,currency
+7201,X1096_A,2023 Avg: Margarine/Fats/Oils/Dressings/Etc,food,food.X1096_A,food_X1096_A,2023 Margarine/Fats & Oils/Dressings/Etc: Average,2023,currency
+7204,X1097_A,2023 Avg: Margarine,food,food.X1097_A,food_X1097_A,2023 Margarine: Average,2023,currency
+7207,X1098_A,2023 Avg: Fats/Oils,food,food.X1098_A,food_X1098_A,2023 Fats & Oils: Average,2023,currency
+7210,X1099_A,2023 Avg: Salad Dressings,food,food.X1099_A,food_X1099_A,2023 Salad Dressings: Average,2023,currency
+7213,X1100_A,2023 Avg: Non-Dairy Cream/Imitation Milk,food,food.X1100_A,food_X1100_A,2023 Non-Dairy Cream & Imitation Milk: Average,2023,currency
+7216,X1101_A,2023 Avg: Peanut Butter,food,food.X1101_A,food_X1101_A,2023 Peanut Butter: Average,2023,currency
+7219,X1102_A,2023 Avg: Frozen Prepared Food,food,food.X1102_A,food_X1102_A,2023 Frozen Prepared Food: Average,2023,currency
+7222,X1103_A,2023 Avg: Frozen Meals,food,food.X1103_A,food_X1103_A,2023 Frozen Meals: Average,2023,currency
+7225,X1104_A,2023 Avg: Oth Frozen Prepared Foods,food,food.X1104_A,food_X1104_A,2023 Other Frozen Prepared Foods: Average,2023,currency
+7228,X1105_A,2023 Avg: Snack Food,food,food.X1105_A,food_X1105_A,2023 Snack Food: Average,2023,currency
+7231,X1106_A,2023 Avg: Potato Chips/Oth Snacks,food,food.X1106_A,food_X1106_A,2023 Potato Chips & Other Snacks: Average,2023,currency
+7234,X1107_A,2023 Avg: Nuts,food,food.X1107_A,food_X1107_A,2023 Nuts: Average,2023,currency
+7237,X1108_A,2023 Avg: Condiments/Sauces,food,food.X1108_A,food_X1108_A,2023 Condiments & Sauces: Average,2023,currency
+7240,X1109_A,2023 Avg: Salt/Spices/Oth Seasonings,food,food.X1109_A,food_X1109_A,2023 Salt/Spices/Other Seasonings: Average,2023,currency
+7243,X1110_A,2023 Avg: Olives/Pickles/Relishes,food,food.X1110_A,food_X1110_A,2023 Olives/Pickles/Relishes: Average,2023,currency
+7246,X1111_A,2023 Avg: Sauces/Gravies,food,food.X1111_A,food_X1111_A,2023 Sauces & Gravies: Average,2023,currency
+7249,X1112_A,2023 Avg: Baking Needs/Misc Prods,food,food.X1112_A,food_X1112_A,2023 Baking Needs & Miscellaneous Products: Average,2023,currency
+7252,X1113_A,2023 Avg: Oth Canned/Prepared Food,food,food.X1113_A,food_X1113_A,2023 Other Canned & Prepared Food: Average,2023,currency
+7255,X1114_A,2023 Avg: Soup,food,food.X1114_A,food_X1114_A,2023 Soup: Average,2023,currency
+7258,X1115_A,2023 Avg: Prepared Salads,food,food.X1115_A,food_X1115_A,2023 Prepared Salads: Average,2023,currency
+7261,X1116_A,2023 Avg: Prepared Desserts,food,food.X1116_A,food_X1116_A,2023 Prepared Desserts: Average,2023,currency
+7264,X1117_A,2023 Avg: Baby Food,food,food.X1117_A,food_X1117_A,2023 Baby Food: Average,2023,currency
+7267,X1118_A,2023 Avg: Misc Prepared Food,food,food.X1118_A,food_X1118_A,2023 Miscellaneous Prepared Food: Average,2023,currency
+7270,X1002_A,2023 Avg: Food,food,food.X1002_A,food_X1002_A,2023 Food: Average,2023,currency
+7273,X1003_A,2023 Avg: Food at Home,food,food.X1003_A,food_X1003_A,2023 Food at Home: Average,2023,currency
+7276,X1130_A,2023 Avg: Food Away from Home,food,food.X1130_A,food_X1130_A,2023 Food Away from Home: Average,2023,currency
+7279,X2001FY_A,2028 Avg: Alcoholic Bevs,food,food.X2001FY_A,food_X2001FY_A,2028 Alcoholic Beverages: Average,2028,currency
+7282,X2002FY_A,2028 Avg: Alcoholic Bevs at Home,food,food.X2002FY_A,food_X2002FY_A,2028 Alcoholic Beverages at Home: Average,2028,currency
+7285,X2003FY_A,2028 Avg: Beer/Ale at Home,food,food.X2003FY_A,food_X2003FY_A,2028 Beer & Ale At Home: Average,2028,currency
+7288,X2004FY_A,2028 Avg: Whiskey at Home,food,food.X2004FY_A,food_X2004FY_A,2028 Whiskey At Home: Average,2028,currency
+7291,X2005FY_A,2028 Avg: Wine at Home,food,food.X2005FY_A,food_X2005FY_A,2028 Wine At Home: Average,2028,currency
+7294,X2006FY_A,2028 Avg: Oth Alcohol at Home,food,food.X2006FY_A,food_X2006FY_A,2028 Other Alcohol At Home: Average,2028,currency
+7297,X2007FY_A,2028 Avg: Alcoholic Bevs Away from Home,food,food.X2007FY_A,food_X2007FY_A,2028 Alcoholic Beverages Away from Home: Average,2028,currency
+7300,X2008FY_A,2028 Avg: Beer/Ale Away from Home,food,food.X2008FY_A,food_X2008FY_A,2028 Beer & Ale Away from Home: Average,2028,currency
+7303,X2009FY_A,2028 Avg: Beer/Ale at Full Svc Restaurant,food,food.X2009FY_A,food_X2009FY_A,2028 Beer & Ale at Full Service Restaurant: Average,2028,currency
+7306,X2010FY_A,2028 Avg: Beer/Ale at Fast Food/Take-Out/Deliv/Vend,food,food.X2010FY_A,food_X2010FY_A,2028 Beer & Ale at Fast Food/Take-Out/Delivery/Vending: Average,2028,currency
+7309,X2011FY_A,2028 Avg: Wine Away from Home,food,food.X2011FY_A,food_X2011FY_A,2028 Wine Away from Home: Average,2028,currency
+7312,X2012FY_A,2028 Avg: Wine at Full Svc Restaurant,food,food.X2012FY_A,food_X2012FY_A,2028 Wine at Full Service Restaurant: Average,2028,currency
+7315,X2013FY_A,2028 Avg: Wine at Fast Food/Take-Out/Deliv/Vend,food,food.X2013FY_A,food_X2013FY_A,2028 Wine at Fast Food/Take-Out/Delivery/Vending: Average,2028,currency
+7318,X2014FY_A,2028 Avg: Oth Alcohol Away from Home,food,food.X2014FY_A,food_X2014FY_A,2028 Other Alcohol Away from Home: Average,2028,currency
+7321,X2015FY_A,2028 Avg: Oth Alcohol at Full Svc Restaurant,food,food.X2015FY_A,food_X2015FY_A,2028 Other Alcohol at Full Service Restaurant: Average,2028,currency
+7324,X2016FY_A,2028 Avg: Oth Alcohol at Fast Food/Take-Out/Deliv/Vend,food,food.X2016FY_A,food_X2016FY_A,2028 Other Alcohol at Fast Food/Take-Out/Delivery/Vending: Average,2028,currency
+7327,X1131FY_A,2028 Avg: Meals at Restaurants/Other,food,food.X1131FY_A,food_X1131FY_A,2028 Meals at Restaurants/Other: Average,2028,currency
+7330,X1132FY_A,2028 Avg: Lunch Away from Home,food,food.X1132FY_A,food_X1132FY_A,2028 Lunch Away from Home: Average,2028,currency
+7333,X1133FY_A,2028 Avg: Lunch at Fast Food/Take-Out/Deliv,food,food.X1133FY_A,food_X1133FY_A,2028 Lunch at Fast Food/Take-Out/Delivery: Average,2028,currency
+7336,X1134FY_A,2028 Avg: Lunch at Full Svc Restaurants,food,food.X1134FY_A,food_X1134FY_A,2028 Lunch at Full Service Restaurants: Average,2028,currency
+7339,X1135FY_A,2028 Avg: Lunch at Employer/School Cafe,food,food.X1135FY_A,food_X1135FY_A,2028 Lunch at Employer/School Cafe: Average,2028,currency
+7342,X1136FY_A,2028 Avg: Lunch at Vend/Mobile Vendors,food,food.X1136FY_A,food_X1136FY_A,2028 Lunch at Vending/Mobile Vendors: Average,2028,currency
+7345,X1137FY_A,2028 Avg: Dinner Away from Home,food,food.X1137FY_A,food_X1137FY_A,2028 Dinner Away from Home: Average,2028,currency
+7348,X1138FY_A,2028 Avg: Dinner at Fast Food/Take-Out/Deliv,food,food.X1138FY_A,food_X1138FY_A,2028 Dinner at Fast Food/Take-Out/Delivery: Average,2028,currency
+7351,X1139FY_A,2028 Avg: Dinner at Full Svc Restaurants,food,food.X1139FY_A,food_X1139FY_A,2028 Dinner at Full Service Restaurants: Average,2028,currency
+7354,X1140FY_A,2028 Avg: Dinner at Employer/School Cafe,food,food.X1140FY_A,food_X1140FY_A,2028 Dinner at Employer/School Cafe: Average,2028,currency
+7357,X1141FY_A,2028 Avg: Dinner at Vend/Mobile Vendors,food,food.X1141FY_A,food_X1141FY_A,2028 Dinner at Vending/Mobile Vendors: Average,2028,currency
+7360,X1142FY_A,2028 Avg: Snacks/Bevs Away from Home,food,food.X1142FY_A,food_X1142FY_A,2028 Snacks & Beverages Away from Home: Average,2028,currency
+7363,X1143FY_A,2028 Avg: Snacks at Fast Food/Take-Out/Deliv,food,food.X1143FY_A,food_X1143FY_A,2028 Snacks at Fast Food/Take-Out/Delivery: Average,2028,currency
+7366,X1144FY_A,2028 Avg: Snacks/Bevs at Full Svc Restaurants,food,food.X1144FY_A,food_X1144FY_A,2028 Snacks/Beverages at Full Service Restaurants: Average,2028,currency
+7369,X1145FY_A,2028 Avg: Snacks/Bevs at Employer/School Cafe,food,food.X1145FY_A,food_X1145FY_A,2028 Snacks/Beverages at Employer/School Cafe: Average,2028,currency
+7372,X1146FY_A,2028 Avg: Snacks/Bevs at Vend/Mobile Vendors,food,food.X1146FY_A,food_X1146FY_A,2028 Snacks/Beverages at Vending/Mobile Vendors: Average,2028,currency
+7375,X1147FY_A,2028 Avg: Breakfast/Brunch Away from Home,food,food.X1147FY_A,food_X1147FY_A,2028 Breakfast & Brunch Away from Home: Average,2028,currency
+7378,X1148FY_A,2028 Avg: Breakfast/Brunch at Fast Food/Take-Out/Deliv,food,food.X1148FY_A,food_X1148FY_A,2028 Breakfast/Brunch at Fast Food/Take-Out/Deliv: Average,2028,currency
+7381,X1149FY_A,2028 Avg: Breakfast/Brunch at Full Svc Restaurants,food,food.X1149FY_A,food_X1149FY_A,2028 Breakfast/Brunch at Full Service Restaurants: Average,2028,currency
+7384,X1150FY_A,2028 Avg: Breakfast/Brunch at Employer/School Cafe,food,food.X1150FY_A,food_X1150FY_A,2028 Breakfast/Brunch at Employer/School Cafe: Average,2028,currency
+7387,X1151FY_A,2028 Avg: Breakfast/Brunch at Vend/Mobile Vendors,food,food.X1151FY_A,food_X1151FY_A,2028 Breakfast/Brunch at Vending/Mobile Vendors: Average,2028,currency
+7390,X1152FY_A,2028 Avg: School Lunches,food,food.X1152FY_A,food_X1152FY_A,2028 School Lunches: Average,2028,currency
+7393,X1154FY_A,2028 Avg: Food and Board at School,food,food.X1154FY_A,food_X1154FY_A,2028 Food & Board at School: Average,2028,currency
+7396,X1155FY_A,2028 Avg: Catered Affairs,food,food.X1155FY_A,food_X1155FY_A,2028 Catered Affairs: Average,2028,currency
+7399,X1004FY_A,2028 Avg: Bakery/Cereal Prods,food,food.X1004FY_A,food_X1004FY_A,2028 Bakery & Cereal Products: Average,2028,currency
+7402,X1005FY_A,2028 Avg: Flour,food,food.X1005FY_A,food_X1005FY_A,2028 Flour: Average,2028,currency
+7405,X1006FY_A,2028 Avg: Prepared Flour Mixes,food,food.X1006FY_A,food_X1006FY_A,2028 Prepared Flour Mixes: Average,2028,currency
+7408,X1007FY_A,2028 Avg: Ready-To-Eat/Cooked Cereal,food,food.X1007FY_A,food_X1007FY_A,2028 Ready-To-Eat & Cooked Cereal: Average,2028,currency
+7411,X1008FY_A,2028 Avg: Rice,food,food.X1008FY_A,food_X1008FY_A,2028 Rice: Average,2028,currency
+7414,X1009FY_A,2028 Avg: Pasta/Cornmeal/Oth Cereal Prods,food,food.X1009FY_A,food_X1009FY_A,2028 Pasta/Cornmeal/Other Cereal Products: Average,2028,currency
+7417,X1010FY_A,2028 Avg: Bread,food,food.X1010FY_A,food_X1010FY_A,2028 Bread: Average,2028,currency
+7420,X1011FY_A,2028 Avg: White Bread,food,food.X1011FY_A,food_X1011FY_A,2028 White Bread: Average,2028,currency
+7423,X1012FY_A,2028 Avg: Bread Excl White,food,food.X1012FY_A,food_X1012FY_A,2028 Bread Excluding White: Average,2028,currency
+7426,X1013FY_A,2028 Avg: Crackers/Cookies,food,food.X1013FY_A,food_X1013FY_A,2028 Crackers & Cookies: Average,2028,currency
+7429,X1014FY_A,2028 Avg: Cookies,food,food.X1014FY_A,food_X1014FY_A,2028 Cookies: Average,2028,currency
+7432,X1015FY_A,2028 Avg: Crackers,food,food.X1015FY_A,food_X1015FY_A,2028 Crackers: Average,2028,currency
+7435,X1016FY_A,2028 Avg: Frozen/Refrigerated Bakery Goods,food,food.X1016FY_A,food_X1016FY_A,2028 Frozen & Refrigerated Bakery Goods: Average,2028,currency
+7438,X1017FY_A,2028 Avg: Oth Bakery Prods,food,food.X1017FY_A,food_X1017FY_A,2028 Other Bakery Products: Average,2028,currency
+7441,X1018FY_A,2028 Avg: Fresh Biscuits/Rolls,food,food.X1018FY_A,food_X1018FY_A,2028 Fresh Biscuits & Rolls: Average,2028,currency
+7444,X1019FY_A,2028 Avg: Fresh Cakes/Cupcakes,food,food.X1019FY_A,food_X1019FY_A,2028 Fresh Cakes & Cupcakes: Average,2028,currency
+7447,X1020FY_A,2028 Avg: Bread/Cracker Prods,food,food.X1020FY_A,food_X1020FY_A,2028 Bread & Cracker Products: Average,2028,currency
+7450,X1021FY_A,2028 Avg: Sweet Rolls/Coffee Cakes/Donuts,food,food.X1021FY_A,food_X1021FY_A,2028 Fresh Sweet Rolls/Coffee Cakes/Donuts: Average,2028,currency
+7453,X1022FY_A,2028 Avg: Fresh Pies/Tarts/Turnovers,food,food.X1022FY_A,food_X1022FY_A,2028 Fresh Pies/Tarts/Turnovers: Average,2028,currency
+7456,X1053FY_A,2028 Avg: Dairy Prods,food,food.X1053FY_A,food_X1053FY_A,2028 Dairy Products: Average,2028,currency
+7459,X1054FY_A,2028 Avg: Fresh Milk (All Types),food,food.X1054FY_A,food_X1054FY_A,2028 Fresh Milk (All Types): Average,2028,currency
+7462,X1055FY_A,2028 Avg: Cream,food,food.X1055FY_A,food_X1055FY_A,2028 Cream: Average,2028,currency
+7465,X1056FY_A,2028 Avg: Butter,food,food.X1056FY_A,food_X1056FY_A,2028 Butter: Average,2028,currency
+7468,X1057FY_A,2028 Avg: Cheese,food,food.X1057FY_A,food_X1057FY_A,2028 Cheese: Average,2028,currency
+7471,X1058FY_A,2028 Avg: Ice Cream/Related Prods,food,food.X1058FY_A,food_X1058FY_A,2028 Ice Cream & Related Products: Average,2028,currency
+7474,X1059FY_A,2028 Avg: Oth Dairy Prods,food,food.X1059FY_A,food_X1059FY_A,2028 Other Dairy Products: Average,2028,currency
+7477,X1060FY_A,2028 Avg: Fruit/Vegetables,food,food.X1060FY_A,food_X1060FY_A,2028 Fruit & Vegetables: Average,2028,currency
+7480,X1061FY_A,2028 Avg: Fresh Fruit,food,food.X1061FY_A,food_X1061FY_A,2028 Fresh Fruit: Average,2028,currency
+7483,X1062FY_A,2028 Avg: Apples,food,food.X1062FY_A,food_X1062FY_A,2028 Apples: Average,2028,currency
+7486,X1063FY_A,2028 Avg: Bananas,food,food.X1063FY_A,food_X1063FY_A,2028 Bananas: Average,2028,currency
+7489,X1064FY_A,2028 Avg: Oranges,food,food.X1064FY_A,food_X1064FY_A,2028 Oranges: Average,2028,currency
+7492,X1065FY_A,2028 Avg: Citrus Fruit Excl Oranges,food,food.X1065FY_A,food_X1065FY_A,2028 Citrus Fruit Excluding Oranges: Average,2028,currency
+7495,X1066FY_A,2028 Avg: Oth Fresh Fruit,food,food.X1066FY_A,food_X1066FY_A,2028 Other Fresh Fruit: Average,2028,currency
+7498,X1067FY_A,2028 Avg: Fresh Vegetables,food,food.X1067FY_A,food_X1067FY_A,2028 Fresh Vegetables: Average,2028,currency
+7501,X1068FY_A,2028 Avg: Potatoes,food,food.X1068FY_A,food_X1068FY_A,2028 Potatoes: Average,2028,currency
+7504,X1069FY_A,2028 Avg: Lettuce,food,food.X1069FY_A,food_X1069FY_A,2028 Lettuce: Average,2028,currency
+7507,X1070FY_A,2028 Avg: Tomatoes,food,food.X1070FY_A,food_X1070FY_A,2028 Tomatoes: Average,2028,currency
+7510,X1071FY_A,2028 Avg: Oth Fresh Vegetables,food,food.X1071FY_A,food_X1071FY_A,2028 Other Fresh Vegetables: Average,2028,currency
+7513,X1072FY_A,2028 Avg: Processed Fruit,food,food.X1072FY_A,food_X1072FY_A,2028 Processed Fruit: Average,2028,currency
+7516,X1073FY_A,2028 Avg: Frozen Fruit/Juice,food,food.X1073FY_A,food_X1073FY_A,2028 Frozen Fruit & Juice: Average,2028,currency
+7519,X1074FY_A,2028 Avg: Frozen Orange Juice,food,food.X1074FY_A,food_X1074FY_A,2028 Frozen Orange Juice: Average,2028,currency
+7522,X1075FY_A,2028 Avg: Frozen Fruit,food,food.X1075FY_A,food_X1075FY_A,2028 Frozen Fruit: Average,2028,currency
+7525,X1076FY_A,2028 Avg: Frozen Fruit Juice,food,food.X1076FY_A,food_X1076FY_A,2028 Frozen Fruit Juice: Average,2028,currency
+7528,X1077FY_A,2028 Avg: Canned Fruit,food,food.X1077FY_A,food_X1077FY_A,2028 Canned Fruit: Average,2028,currency
+7531,X1078FY_A,2028 Avg: Dried Fruit,food,food.X1078FY_A,food_X1078FY_A,2028 Dried Fruit: Average,2028,currency
+7534,X1079FY_A,2028 Avg: Fresh Fruit Juice,food,food.X1079FY_A,food_X1079FY_A,2028 Fresh Fruit Juice: Average,2028,currency
+7537,X1080FY_A,2028 Avg: Canned/Bottled Fruit Juice,food,food.X1080FY_A,food_X1080FY_A,2028 Canned/Bottled Fruit Juice: Average,2028,currency
+7540,X1081FY_A,2028 Avg: Processed Vegetables,food,food.X1081FY_A,food_X1081FY_A,2028 Processed Vegetables: Average,2028,currency
+7543,X1082FY_A,2028 Avg: Frozen Vegetables,food,food.X1082FY_A,food_X1082FY_A,2028 Frozen Vegetables: Average,2028,currency
+7546,X1083FY_A,2028 Avg: Vegetables Canned/Dried/Juice,food,food.X1083FY_A,food_X1083FY_A,2028 Vegetables Canned/Dried & Juice: Average,2028,currency
+7549,X1084FY_A,2028 Avg: Canned Beans,food,food.X1084FY_A,food_X1084FY_A,2028 Canned Beans: Average,2028,currency
+7552,X1085FY_A,2028 Avg: Canned Corn,food,food.X1085FY_A,food_X1085FY_A,2028 Canned Corn: Average,2028,currency
+7555,X1086FY_A,2028 Avg: Misc Canned Vegetables,food,food.X1086FY_A,food_X1086FY_A,2028 Miscellaneous Canned Vegetables: Average,2028,currency
+7558,X1087FY_A,2028 Avg: Dried Beans/Peas,food,food.X1087FY_A,food_X1087FY_A,2028 Dried Beans & Peas: Average,2028,currency
+7561,X1088FY_A,2028 Avg: Misc Dried Vegetables,food,food.X1088FY_A,food_X1088FY_A,2028 Miscellaneous Dried Vegetables: Average,2028,currency
+7564,X1089FY_A,2028 Avg: Vegetable Juice,food,food.X1089FY_A,food_X1089FY_A,2028 Vegetable Juice: Average,2028,currency
+7567,X1023FY_A,2028 Avg: Meat/Poultry/Fish/Eggs,food,food.X1023FY_A,food_X1023FY_A,2028 Meat/Poultry/Fish/Eggs: Average,2028,currency
+7570,X1024FY_A,2028 Avg: Beef,food,food.X1024FY_A,food_X1024FY_A,2028 Beef: Average,2028,currency
+7573,X1025FY_A,2028 Avg: Ground Beef,food,food.X1025FY_A,food_X1025FY_A,2028 Ground Beef: Average,2028,currency
+7576,X1026FY_A,2028 Avg: Chuck Roast,food,food.X1026FY_A,food_X1026FY_A,2028 Chuck Roast: Average,2028,currency
+7579,X1027FY_A,2028 Avg: Round Roast,food,food.X1027FY_A,food_X1027FY_A,2028 Round Roast: Average,2028,currency
+7582,X1028FY_A,2028 Avg: Oth Roast,food,food.X1028FY_A,food_X1028FY_A,2028 Other Roast: Average,2028,currency
+7585,X1029FY_A,2028 Avg: Round Steak,food,food.X1029FY_A,food_X1029FY_A,2028 Round Steak: Average,2028,currency
+7588,X1030FY_A,2028 Avg: Sirloin Steak,food,food.X1030FY_A,food_X1030FY_A,2028 Sirloin Steak: Average,2028,currency
+7591,X1031FY_A,2028 Avg: Oth Steak,food,food.X1031FY_A,food_X1031FY_A,2028 Other Steak: Average,2028,currency
+7594,X1032FY_A,2028 Avg: Oth Beef,food,food.X1032FY_A,food_X1032FY_A,2028 Other Beef: Average,2028,currency
+7597,X1033FY_A,2028 Avg: Pork,food,food.X1033FY_A,food_X1033FY_A,2028 Pork: Average,2028,currency
+7600,X1034FY_A,2028 Avg: Bacon,food,food.X1034FY_A,food_X1034FY_A,2028 Bacon: Average,2028,currency
+7603,X1035FY_A,2028 Avg: Pork Chops,food,food.X1035FY_A,food_X1035FY_A,2028 Pork Chops: Average,2028,currency
+7606,X1036FY_A,2028 Avg: Ham,food,food.X1036FY_A,food_X1036FY_A,2028 Ham: Average,2028,currency
+7609,X1037FY_A,2028 Avg: Sausage,food,food.X1037FY_A,food_X1037FY_A,2028 Sausage: Average,2028,currency
+7612,X1038FY_A,2028 Avg: Oth Pork,food,food.X1038FY_A,food_X1038FY_A,2028 Other Pork: Average,2028,currency
+7615,X1039FY_A,2028 Avg: Oth Meat,food,food.X1039FY_A,food_X1039FY_A,2028 Other Meat: Average,2028,currency
+7618,X1040FY_A,2028 Avg: Frankfurters,food,food.X1040FY_A,food_X1040FY_A,2028 Frankfurters: Average,2028,currency
+7621,X1041FY_A,2028 Avg: Bologna/Liverwurst/Salami,food,food.X1041FY_A,food_X1041FY_A,2028 Bologna/Liverwurst/Salami: Average,2028,currency
+7624,X1042FY_A,2028 Avg: Oth Lunchmeat,food,food.X1042FY_A,food_X1042FY_A,2028 Other Lunchmeat: Average,2028,currency
+7627,X1043FY_A,2028 Avg: Lamb/Oth Meat,food,food.X1043FY_A,food_X1043FY_A,2028 Lamb & Other Meat: Average,2028,currency
+7630,X1044FY_A,2028 Avg: Poultry,food,food.X1044FY_A,food_X1044FY_A,2028 Poultry: Average,2028,currency
+7633,X1045FY_A,2028 Avg: Whole Chickens,food,food.X1045FY_A,food_X1045FY_A,2028 Whole Chickens: Average,2028,currency
+7636,X1046FY_A,2028 Avg: Chicken Parts,food,food.X1046FY_A,food_X1046FY_A,2028 Chicken Parts: Average,2028,currency
+7639,X1047FY_A,2028 Avg: Oth Poultry,food,food.X1047FY_A,food_X1047FY_A,2028 Other Poultry: Average,2028,currency
+7642,X1048FY_A,2028 Avg: Seafood,food,food.X1048FY_A,food_X1048FY_A,2028 Seafood: Average,2028,currency
+7645,X1049FY_A,2028 Avg: Canned Fish/Shellfish,food,food.X1049FY_A,food_X1049FY_A,2028 Canned Fish & Shellfish: Average,2028,currency
+7648,X1050FY_A,2028 Avg: Fresh Fish/Shellfish,food,food.X1050FY_A,food_X1050FY_A,2028 Fresh Fish & Shellfish: Average,2028,currency
+7651,X1051FY_A,2028 Avg: Frozen Fish/Shellfish,food,food.X1051FY_A,food_X1051FY_A,2028 Frozen Fish & Shellfish: Average,2028,currency
+7654,X1052FY_A,2028 Avg: Eggs,food,food.X1052FY_A,food_X1052FY_A,2028 Eggs: Average,2028,currency
+7657,X1119FY_A,2028 Avg: Nonalcoholic Bevs,food,food.X1119FY_A,food_X1119FY_A,2028 Nonalcoholic Beverages: Average,2028,currency
+7660,X1120FY_A,2028 Avg: Cola Drinks,food,food.X1120FY_A,food_X1120FY_A,2028 Cola Drinks: Average,2028,currency
+7663,X1121FY_A,2028 Avg: Oth Carbonated Drinks,food,food.X1121FY_A,food_X1121FY_A,2028 Other Carbonated Drinks: Average,2028,currency
+7666,X1122FY_A,2028 Avg: Coffee,food,food.X1122FY_A,food_X1122FY_A,2028 Coffee: Average,2028,currency
+7669,X1123FY_A,2028 Avg: Roasted Coffee,food,food.X1123FY_A,food_X1123FY_A,2028 Roasted Coffee: Average,2028,currency
+7672,X1124FY_A,2028 Avg: Instant/Freeze-Dried Coffee,food,food.X1124FY_A,food_X1124FY_A,2028 Instant/Freeze-Dried Coffee: Average,2028,currency
+7675,X1125FY_A,2028 Avg: Tea,food,food.X1125FY_A,food_X1125FY_A,2028 Tea: Average,2028,currency
+7678,X1126FY_A,2028 Avg: Noncarbonated Fruit Drinks,food,food.X1126FY_A,food_X1126FY_A,2028 Noncarbonated Fruit Drinks: Average,2028,currency
+7681,X1127FY_A,2028 Avg: Sports Drinks,food,food.X1127FY_A,food_X1127FY_A,2028 Sports Drinks: Average,2028,currency
+7684,X1128FY_A,2028 Avg: Oth Noncarb Bevs(Excl Water)/Ice,food,food.X1128FY_A,food_X1128FY_A,2028 Other Noncarb Beverages(Excl Water) & Ice: Average,2028,currency
+7687,X1129FY_A,2028 Avg: Bottled Water,food,food.X1129FY_A,food_X1129FY_A,2028 Bottled Water: Average,2028,currency
+7690,X1090FY_A,2028 Avg: Snacks/Oth Food,food,food.X1090FY_A,food_X1090FY_A,2028 Snacks/Other Food: Average,2028,currency
+7693,X1091FY_A,2028 Avg: Sugar/Oth Sweets,food,food.X1091FY_A,food_X1091FY_A,2028 Sugar & Other Sweets: Average,2028,currency
+7696,X1092FY_A,2028 Avg: Candy/Chewing Gum,food,food.X1092FY_A,food_X1092FY_A,2028 Candy & Chewing Gum: Average,2028,currency
+7699,X1093FY_A,2028 Avg: Sugar,food,food.X1093FY_A,food_X1093FY_A,2028 Sugar: Average,2028,currency
+7702,X1094FY_A,2028 Avg: Artificial Sweeteners,food,food.X1094FY_A,food_X1094FY_A,2028 Artificial Sweeteners: Average,2028,currency
+7705,X1095FY_A,2028 Avg: Jam/Preserves/Oth Sweets,food,food.X1095FY_A,food_X1095FY_A,2028 Jam/Preserves & Other Sweets: Average,2028,currency
+7708,X1096FY_A,2028 Avg: Margarine/Fats/Oils/Dressings/Etc,food,food.X1096FY_A,food_X1096FY_A,2028 Margarine/Fats & Oils/Dressings/Etc: Average,2028,currency
+7711,X1097FY_A,2028 Avg: Margarine,food,food.X1097FY_A,food_X1097FY_A,2028 Margarine: Average,2028,currency
+7714,X1098FY_A,2028 Avg: Fats/Oils,food,food.X1098FY_A,food_X1098FY_A,2028 Fats & Oils: Average,2028,currency
+7717,X1099FY_A,2028 Avg: Salad Dressings,food,food.X1099FY_A,food_X1099FY_A,2028 Salad Dressings: Average,2028,currency
+7720,X1100FY_A,2028 Avg: Non-Dairy Cream/Imitation Milk,food,food.X1100FY_A,food_X1100FY_A,2028 Non-Dairy Cream & Imitation Milk: Average,2028,currency
+7723,X1101FY_A,2028 Avg: Peanut Butter,food,food.X1101FY_A,food_X1101FY_A,2028 Peanut Butter: Average,2028,currency
+7726,X1102FY_A,2028 Avg: Frozen Prepared Food,food,food.X1102FY_A,food_X1102FY_A,2028 Frozen Prepared Food: Average,2028,currency
+7729,X1103FY_A,2028 Avg: Frozen Meals,food,food.X1103FY_A,food_X1103FY_A,2028 Frozen Meals: Average,2028,currency
+7732,X1104FY_A,2028 Avg: Oth Frozen Prepared Foods,food,food.X1104FY_A,food_X1104FY_A,2028 Other Frozen Prepared Foods: Average,2028,currency
+7735,X1105FY_A,2028 Avg: Snack Food,food,food.X1105FY_A,food_X1105FY_A,2028 Snack Food: Average,2028,currency
+7738,X1106FY_A,2028 Avg: Potato Chips/Oth Snacks,food,food.X1106FY_A,food_X1106FY_A,2028 Potato Chips & Other Snacks: Average,2028,currency
+7741,X1107FY_A,2028 Avg: Nuts,food,food.X1107FY_A,food_X1107FY_A,2028 Nuts: Average,2028,currency
+7744,X1108FY_A,2028 Avg: Condiments/Sauces,food,food.X1108FY_A,food_X1108FY_A,2028 Condiments & Sauces: Average,2028,currency
+7747,X1109FY_A,2028 Avg: Salt/Spices/Oth Seasonings,food,food.X1109FY_A,food_X1109FY_A,2028 Salt/Spices/Other Seasonings: Average,2028,currency
+7750,X1110FY_A,2028 Avg: Olives/Pickles/Relishes,food,food.X1110FY_A,food_X1110FY_A,2028 Olives/Pickles/Relishes: Average,2028,currency
+7753,X1111FY_A,2028 Avg: Sauces/Gravies,food,food.X1111FY_A,food_X1111FY_A,2028 Sauces & Gravies: Average,2028,currency
+7756,X1112FY_A,2028 Avg: Baking Needs/Misc Prods,food,food.X1112FY_A,food_X1112FY_A,2028 Baking Needs & Miscellaneous Products: Average,2028,currency
+7759,X1113FY_A,2028 Avg: Oth Canned/Prepared Food,food,food.X1113FY_A,food_X1113FY_A,2028 Other Canned & Prepared Food: Average,2028,currency
+7762,X1114FY_A,2028 Avg: Soup,food,food.X1114FY_A,food_X1114FY_A,2028 Soup: Average,2028,currency
+7765,X1115FY_A,2028 Avg: Prepared Salads,food,food.X1115FY_A,food_X1115FY_A,2028 Prepared Salads: Average,2028,currency
+7768,X1116FY_A,2028 Avg: Prepared Desserts,food,food.X1116FY_A,food_X1116FY_A,2028 Prepared Desserts: Average,2028,currency
+7771,X1117FY_A,2028 Avg: Baby Food,food,food.X1117FY_A,food_X1117FY_A,2028 Baby Food: Average,2028,currency
+7774,X1118FY_A,2028 Avg: Misc Prepared Food,food,food.X1118FY_A,food_X1118FY_A,2028 Miscellaneous Prepared Food: Average,2028,currency
+7777,X1130FY_A,2028 Avg: Food Away from Home,food,food.X1130FY_A,food_X1130FY_A,2028 Food Away from Home: Average,2028,currency
+7780,X1002FY_A,2028 Avg: Food,food,food.X1002FY_A,food_X1002FY_A,2028 Food: Average,2028,currency
+7783,X1003FY_A,2028 Avg: Food at Home,food,food.X1003FY_A,food_X1003FY_A,2028 Food at Home: Average,2028,currency
+19401,X1001_A,2023 Avg: Annual Budget Expenditures,SpendingTotal,SpendingTotal.X1001_A,SpendingTotal_X1001_A,2023 Annual Budget Expenditures: Average,2023,currency
+19404,X15001_A,2023 Avg: Retail Goods,SpendingTotal,SpendingTotal.X15001_A,SpendingTotal_X15001_A,2023 Retail Goods: Average,2023,currency
+19407,X1001FY_A,2028 Avg: Annual Budget Expenditures,SpendingTotal,SpendingTotal.X1001FY_A,SpendingTotal_X1001FY_A,2028 Annual Budget Expenditures: Average,2028,currency
+19410,X15001FY_A,2028 Avg: Retail Goods,SpendingTotal,SpendingTotal.X15001FY_A,SpendingTotal_X15001FY_A,2028 Retail Goods: Average,2028,currency
+1079,MALE0,2023 Males Age 0-4,Age,Age.MALE0,Age_MALE0,2023 Male Population Age 0-4 (Esri),2023,count
+1080,MALE5,2023 Males Age 5-9,Age,Age.MALE5,Age_MALE5,2023 Male Population Age 5-9 (Esri),2023,count
+1081,MALE10,2023 Males Age 10-14,Age,Age.MALE10,Age_MALE10,2023 Male Population Age 10-14 (Esri),2023,count
+1082,MALE15,2023 Males Age 15-19,Age,Age.MALE15,Age_MALE15,2023 Male Population Age 15-19 (Esri),2023,count
+1083,MALE20,2023 Males Age 20-24,Age,Age.MALE20,Age_MALE20,2023 Male Population Age 20-24 (Esri),2023,count
+1084,MALE25,2023 Males Age 25-29,Age,Age.MALE25,Age_MALE25,2023 Male Population Age 25-29 (Esri),2023,count
+1085,MALE30,2023 Males Age 30-34,Age,Age.MALE30,Age_MALE30,2023 Male Population Age 30-34 (Esri),2023,count
+1086,MALE35,2023 Males Age 35-39,Age,Age.MALE35,Age_MALE35,2023 Male Population Age 35-39 (Esri),2023,count
+1087,MALE40,2023 Males Age 40-44,Age,Age.MALE40,Age_MALE40,2023 Male Population Age 40-44 (Esri),2023,count
+1088,MALE45,2023 Males Age 45-49,Age,Age.MALE45,Age_MALE45,2023 Male Population Age 45-49 (Esri),2023,count
+1089,MALE50,2023 Males Age 50-54,Age,Age.MALE50,Age_MALE50,2023 Male Population Age 50-54 (Esri),2023,count
+1090,MALE55,2023 Males Age 55-59,Age,Age.MALE55,Age_MALE55,2023 Male Population Age 55-59 (Esri),2023,count
+1091,MALE60,2023 Males Age 60-64,Age,Age.MALE60,Age_MALE60,2023 Male Population Age 60-64 (Esri),2023,count
+1092,MALE65,2023 Males Age 65-69,Age,Age.MALE65,Age_MALE65,2023 Male Population Age 65-69 (Esri),2023,count
+1093,MALE70,2023 Males Age 70-74,Age,Age.MALE70,Age_MALE70,2023 Male Population Age 70-74 (Esri),2023,count
+1094,MALE75,2023 Males Age 75-79,Age,Age.MALE75,Age_MALE75,2023 Male Population Age 75-79 (Esri),2023,count
+1095,MALE80,2023 Males Age 80-84,Age,Age.MALE80,Age_MALE80,2023 Male Population Age 80-84 (Esri),2023,count
+1096,MALE85,2023 Males Age 85+,Age,Age.MALE85,Age_MALE85,2023 Male Population Age 85+ (Esri),2023,count
+1097,FEM0,2023 Females Age 0-4,Age,Age.FEM0,Age_FEM0,2023 Female Population Age 0-4 (Esri),2023,count
+1098,FEM5,2023 Females Age 5-9,Age,Age.FEM5,Age_FEM5,2023 Female Population Age 5-9 (Esri),2023,count
+1099,FEM10,2023 Females Age 10-14,Age,Age.FEM10,Age_FEM10,2023 Female Population Age 10-14 (Esri),2023,count
+1100,FEM15,2023 Females Age 15-19,Age,Age.FEM15,Age_FEM15,2023 Female Population Age 15-19 (Esri),2023,count
+1101,FEM20,2023 Females Age 20-24,Age,Age.FEM20,Age_FEM20,2023 Female Population Age 20-24 (Esri),2023,count
+1102,FEM25,2023 Females Age 25-29,Age,Age.FEM25,Age_FEM25,2023 Female Population Age 25-29 (Esri),2023,count
+1103,FEM30,2023 Females Age 30-34,Age,Age.FEM30,Age_FEM30,2023 Female Population Age 30-34 (Esri),2023,count
+1104,FEM35,2023 Females Age 35-39,Age,Age.FEM35,Age_FEM35,2023 Female Population Age 35-39 (Esri),2023,count
+1105,FEM40,2023 Females Age 40-44,Age,Age.FEM40,Age_FEM40,2023 Female Population Age 40-44 (Esri),2023,count
+1106,FEM45,2023 Females Age 45-49,Age,Age.FEM45,Age_FEM45,2023 Female Population Age 45-49 (Esri),2023,count
+1107,FEM50,2023 Females Age 50-54,Age,Age.FEM50,Age_FEM50,2023 Female Population Age 50-54 (Esri),2023,count
+1108,FEM55,2023 Females Age 55-59,Age,Age.FEM55,Age_FEM55,2023 Female Population Age 55-59 (Esri),2023,count
+1109,FEM60,2023 Females Age 60-64,Age,Age.FEM60,Age_FEM60,2023 Female Population Age 60-64 (Esri),2023,count
+1110,FEM65,2023 Females Age 65-69,Age,Age.FEM65,Age_FEM65,2023 Female Population Age 65-69 (Esri),2023,count
+1111,FEM70,2023 Females Age 70-74,Age,Age.FEM70,Age_FEM70,2023 Female Population Age 70-74 (Esri),2023,count
+1112,FEM75,2023 Females Age 75-79,Age,Age.FEM75,Age_FEM75,2023 Female Population Age 75-79 (Esri),2023,count
+1113,FEM80,2023 Females Age 80-84,Age,Age.FEM80,Age_FEM80,2023 Female Population Age 80-84 (Esri),2023,count
+1114,FEM85,2023 Females Age 85+,Age,Age.FEM85,Age_FEM85,2023 Female Population Age 85+ (Esri),2023,count
+4649,TOTPOP_CY,2023 Total Population,crime,crime.TOTPOP_CY,crime_TOTPOP_CY,2023 Total Population (Esri),2023,count
+4650,TOTPOP_FY,2028 Total Population,crime,crime.TOTPOP_FY,crime_TOTPOP_FY,2028 Total Population (Esri),2028,count
+4651,POPGRWCYFY,2023-2028 Growth Rate: Population,crime,crime.POPGRWCYFY,crime_POPGRWCYFY,2023-2028 Population: Annual Growth Rate (Esri),2028,pct
+4652,CRMCYTOTC,2023 Total Crime Index,crime,crime.CRMCYTOTC,crime_CRMCYTOTC,2023 Total Crime Index (AGS),2023,count
+4653,CRMCYPERC,2023 Personal Crime Index,crime,crime.CRMCYPERC,crime_CRMCYPERC,2023 Personal Crime Index (AGS),2023,count
+4654,CRMCYMURD,2023 Murder Index,crime,crime.CRMCYMURD,crime_CRMCYMURD,2023 Murder Index (AGS),2023,count
+4655,CRMCYRAPE,2023 Rape Index,crime,crime.CRMCYRAPE,crime_CRMCYRAPE,2023 Rape Index (AGS),2023,count
+4656,CRMCYROBB,2023 Robbery Index,crime,crime.CRMCYROBB,crime_CRMCYROBB,2023 Robbery Index (AGS),2023,count
+4657,CRMCYASST,2023 Assault Index,crime,crime.CRMCYASST,crime_CRMCYASST,2023 Assault Index (AGS),2023,count
+4658,CRMCYPROC,2023 Property Crime Index,crime,crime.CRMCYPROC,crime_CRMCYPROC,2023 Property Crime Index (AGS),2023,count
+4659,CRMCYBURG,2023 Burglary Index,crime,crime.CRMCYBURG,crime_CRMCYBURG,2023 Burglary Index (AGS),2023,count
+4660,CRMCYLARC,2023 Larceny Index,crime,crime.CRMCYLARC,crime_CRMCYLARC,2023 Larceny Index (AGS),2023,count
+4661,CRMCYMVEH,2023 Motor Vehicle Theft Index,crime,crime.CRMCYMVEH,crime_CRMCYMVEH,2023 Motor Vehicle Theft Index (AGS),2023,count
+4662,TOTCAGG,2023 Total Crime Aggregate,crime,crime.TOTCAGG,crime_TOTCAGG,2023 Total Crime Aggregate (AGS),2023,count
+4663,PERCAGG,2023 Personal Crime Aggregate,crime,crime.PERCAGG,crime_PERCAGG,2023 Personal Crime Aggregate (AGS),2023,count
+4664,MURDAGG,2023 Murder Aggregate,crime,crime.MURDAGG,crime_MURDAGG,2023 Murder Aggregate (AGS),2023,count
+4665,RAPEAGG,2023 Rape Aggregate,crime,crime.RAPEAGG,crime_RAPEAGG,2023 Rape Aggregate (AGS),2023,count
+4666,ROBBAGG,2023 Robbery Aggregate,crime,crime.ROBBAGG,crime_ROBBAGG,2023 Robbery Aggregate (AGS),2023,count
+4667,ASSTAGG,2023 Assault Aggregate,crime,crime.ASSTAGG,crime_ASSTAGG,2023 Assault Aggregate (AGS),2023,count
+4668,PROCAGG,2023 Property Crime Aggregate,crime,crime.PROCAGG,crime_PROCAGG,2023 Property Crime Aggregate (AGS),2023,count
+4669,BURGAGG,2023 Burglary Aggregate,crime,crime.BURGAGG,crime_BURGAGG,2023 Burglary Aggregate (AGS),2023,count
+4670,LARCAGG,2023 Larceny Aggregate,crime,crime.LARCAGG,crime_LARCAGG,2023 Larceny Aggregate (AGS),2023,count
+4671,MVEHAGG,2023 Motor Vehicle Theft Aggregate,crime,crime.MVEHAGG,crime_MVEHAGG,2023 Motor Vehicle Theft Aggregate (AGS),2023,count
+4870,NOHS_CY,2023 Pop Age 25+: < 9th Grade,educationalattainment,educationalattainment.NOHS_CY,educationalattainment_NOHS_CY,2023 Population Age 25+: Less than 9th Grade (Esri),2023,count
+4871,SOMEHS_CY,2023 Pop Age 25+: High School/No Diploma,educationalattainment,educationalattainment.SOMEHS_CY,educationalattainment_SOMEHS_CY,2023 Population Age 25+: 9-12th Grade/No Diploma (Esri),2023,count
+4872,HSGRAD_CY,2023 Pop Age 25+: High School Diploma,educationalattainment,educationalattainment.HSGRAD_CY,educationalattainment_HSGRAD_CY,2023 Population Age 25+: High School Diploma (Esri),2023,count
+4873,GED_CY,2023 Pop Age 25+: GED,educationalattainment,educationalattainment.GED_CY,educationalattainment_GED_CY,2023 Population Age 25+: GED/Alternative Credential (Esri),2023,count
+4874,SMCOLL_CY,2023 Pop Age 25+: Some College/No Degree,educationalattainment,educationalattainment.SMCOLL_CY,educationalattainment_SMCOLL_CY,2023 Population Age 25+: Some College/No Degree (Esri),2023,count
+4875,ASSCDEG_CY,2023 Pop Age 25+: Associate's Degree,educationalattainment,educationalattainment.ASSCDEG_CY,educationalattainment_ASSCDEG_CY,2023 Population Age 25+: Associate's Degree (Esri),2023,count
+4876,BACHDEG_CY,2023 Pop Age 25+: Bachelor's Degree,educationalattainment,educationalattainment.BACHDEG_CY,educationalattainment_BACHDEG_CY,2023 Population Age 25+: Bachelor's Degree (Esri),2023,count
+4877,GRADDEG_CY,2023 Pop Age 25+: Grad/Professional Degree,educationalattainment,educationalattainment.GRADDEG_CY,educationalattainment_GRADDEG_CY,2023 Population Age 25+: Graduate/Professional Degree (Esri),2023,count
+4878,EDUCBASECY,2023 Educational Attainment Base,educationalattainment,educationalattainment.EDUCBASECY,educationalattainment_EDUCBASECY,2023 Educational Attainment Base (Pop 25+)(Esri),2023,count
+10535,HINC0_CY,2023 HH Income <$15000,householdincome,householdincome.HINC0_CY,householdincome_HINC0_CY,"2023 Household Income less than $15,000 (Esri)",2023,count
+10536,HINC15_CY,2023 HH Income $15000-24999,householdincome,householdincome.HINC15_CY,householdincome_HINC15_CY,"2023 Household Income $15,000-$24,999 (Esri)",2023,count
+10537,HINC25_CY,2023 HH Income $25000-34999,householdincome,householdincome.HINC25_CY,householdincome_HINC25_CY,"2023 Household Income $25,000-$34,999 (Esri)",2023,count
+10538,HINC35_CY,2023 HH Income $35000-49999,householdincome,householdincome.HINC35_CY,householdincome_HINC35_CY,"2023 Household Income $35,000-$49,999 (Esri)",2023,count
+10539,HINC50_CY,2023 HH Income $50000-74999,householdincome,householdincome.HINC50_CY,householdincome_HINC50_CY,"2023 Household Income $50,000-$74,999 (Esri)",2023,count
+10540,HINC75_CY,2023 HH Income $75000-99999,householdincome,householdincome.HINC75_CY,householdincome_HINC75_CY,"2023 Household Income $75,000-$99,999 (Esri)",2023,count
+10541,HINC100_CY,2023 HH Income $100000-149999,householdincome,householdincome.HINC100_CY,householdincome_HINC100_CY,"2023 Household Income $100,000-$149,999 (Esri)",2023,count
+10542,HINC150_CY,2023 HH Income $150000-199999,householdincome,householdincome.HINC150_CY,householdincome_HINC150_CY,"2023 Household Income $150,000-$199,999 (Esri)",2023,count
+10543,HINC200_CY,2023 HH Income $200000+,householdincome,householdincome.HINC200_CY,householdincome_HINC200_CY,"2023 Household Income $200,000 or greater (Esri)",2023,count
+10544,MEDHINC_CY,2023 Median Household Income,householdincome,householdincome.MEDHINC_CY,householdincome_MEDHINC_CY,2023 Median Household Income (Esri),2023,currency
+10545,AVGHINC_CY,2023 Average Household Income,householdincome,householdincome.AVGHINC_CY,householdincome_AVGHINC_CY,2023 Average Household Income (Esri),2023,currency
+10546,PCI_CY,2023 Per Capita Income,householdincome,householdincome.PCI_CY,householdincome_PCI_CY,2023 Per Capita Income (Esri),2023,currency
+10547,AGGINC_CY,2023 Aggregate Income,householdincome,householdincome.AGGINC_CY,householdincome_AGGINC_CY,2023 Aggregate Income (Esri),2023,currency
+10548,AGGHINC_CY,2023 Aggregate HH Income,householdincome,householdincome.AGGHINC_CY,householdincome_AGGHINC_CY,2023 Aggregate Household Income (Esri),2023,currency
+10549,HINCBASECY,2023 Households by Income Base,householdincome,householdincome.HINCBASECY,householdincome_HINCBASECY,2023 Households by Income Base (Esri),2023,count
+10550,PCIGRWCYFY,2023-2028 Growth Rate: Per Capita Inc,householdincome,householdincome.PCIGRWCYFY,householdincome_PCIGRWCYFY,2023-2028 Per Capita Income: Compound Annual Growth Rate (Esri),2028,pct
+10551,MHIGRWCYFY,2023-2028 Growth Rate: Median HH Inc,householdincome,householdincome.MHIGRWCYFY,householdincome_MHIGRWCYFY,2023-2028 Median Household Income: Compound Annual Growth Rate (Esri),2028,pct
+10552,HINC0_FY,2028 HH Income <$15000,householdincome,householdincome.HINC0_FY,householdincome_HINC0_FY,"2028 Household Income less than $15,000 (Esri)",2028,count
+10553,HINC15_FY,2028 HH Income $15000-24999,householdincome,householdincome.HINC15_FY,householdincome_HINC15_FY,"2028 Household Income $15,000-$24,999 (Esri)",2028,count
+10554,HINC25_FY,2028 HH Income $25000-34999,householdincome,householdincome.HINC25_FY,householdincome_HINC25_FY,"2028 Household Income $25,000-$34,999 (Esri)",2028,count
+10555,HINC35_FY,2028 HH Income $35000-49999,householdincome,householdincome.HINC35_FY,householdincome_HINC35_FY,"2028 Household Income $35,000-$49,999 (Esri)",2028,count
+10556,HINC50_FY,2028 HH Income $50000-74999,householdincome,householdincome.HINC50_FY,householdincome_HINC50_FY,"2028 Household Income $50,000-$74,999 (Esri)",2028,count
+10557,HINC75_FY,2028 HH Income $75000-99999,householdincome,householdincome.HINC75_FY,householdincome_HINC75_FY,"2028 Household Income $75,000-$99,999 (Esri)",2028,count
+10558,HINC100_FY,2028 HH Income $100000-149999,householdincome,householdincome.HINC100_FY,householdincome_HINC100_FY,"2028 Household Income $100,000-$149,999 (Esri)",2028,count
+10559,HINC150_FY,2028 HH Income $150000-199999,householdincome,householdincome.HINC150_FY,householdincome_HINC150_FY,"2028 Household Income $150,000-$199,999 (Esri)",2028,count
+10560,HINC200_FY,2028 HH Income $200000+,householdincome,householdincome.HINC200_FY,householdincome_HINC200_FY,"2028 Household Income $200,000 or greater (Esri)",2028,count
+10561,MEDHINC_FY,2028 Median Household Income,householdincome,householdincome.MEDHINC_FY,householdincome_MEDHINC_FY,2028 Median Household Income (Esri),2028,currency
+10562,AVGHINC_FY,2028 Average Household Income,householdincome,householdincome.AVGHINC_FY,householdincome_AVGHINC_FY,2028 Average Household Income (Esri),2028,currency
+10563,PCI_FY,2028 Per Capita Income,householdincome,householdincome.PCI_FY,householdincome_PCI_FY,2028 Per Capita Income (Esri),2028,currency
+10564,AGGINC_FY,2028 Aggregate Income,householdincome,householdincome.AGGINC_FY,householdincome_AGGINC_FY,2028 Aggregate Income (Esri),2028,currency
+10565,AGGHINC_FY,2028 Aggregate HH Income,householdincome,householdincome.AGGHINC_FY,householdincome_AGGHINC_FY,2028 Aggregate Household Income (Esri),2028,currency
+10566,HINCBASEFY,2028 Households by Income Base,householdincome,householdincome.HINCBASEFY,householdincome_HINCBASEFY,2028 Households by Income Base (Esri),2028,count
+10648,GINI_CY,2023 Gini Index,householdincome,householdincome.GINI_CY,householdincome_GINI_CY,2023 Gini Index (Esri),2023,count
+10649,RAT9010_CY,2023 P90-P10 Ratio,householdincome,householdincome.RAT9010_CY,householdincome_RAT9010_CY,2023 P90-P10 Ratio of Income Inequality (Esri),2023,count
+10650,RAT9050_CY,2023 P90-P50 Ratio,householdincome,householdincome.RAT9050_CY,householdincome_RAT9050_CY,2023 P90-P50 Ratio of Income Inequality (Esri),2023,count
+10651,RAT5010_CY,2023 P50-P10 Ratio,householdincome,householdincome.RAT5010_CY,householdincome_RAT5010_CY,2023 P50-P10 Ratio of Income Inequality (Esri),2023,count
+10652,SHR8020_CY,2023 80-20 Share Ratio,householdincome,householdincome.SHR8020_CY,householdincome_SHR8020_CY,2023 80-20 Share Ratio of Income Inequality (Esri),2023,count
+10653,SHR9040_CY,2023 90-40 Share Ratio,householdincome,householdincome.SHR9040_CY,householdincome_SHR9040_CY,2023 90-40 Share Ratio of Income Inequality (Esri),2023,count
+10654,LOTRHH_CY,2023 HH in Low Income Tier,householdincome,householdincome.LOTRHH_CY,householdincome_LOTRHH_CY,2023 Households in Low Income Tier (Esri),2023,count
+10655,MDTRHH_CY,2023 HH in Middle Income Tier,householdincome,householdincome.MDTRHH_CY,householdincome_MDTRHH_CY,2023 Households in Middle Income Tier (Esri),2023,count
+10656,UPTRHH_CY,2023 HH in Upper Income Tier,householdincome,householdincome.UPTRHH_CY,householdincome_UPTRHH_CY,2023 Households in Upper Income Tier (Esri),2023,count
+10657,GINI_FY,2028 Gini Index,householdincome,householdincome.GINI_FY,householdincome_GINI_FY,2028 Gini Index (Esri),2028,count
+10658,RAT9010_FY,2028 P90-P10 Ratio,householdincome,householdincome.RAT9010_FY,householdincome_RAT9010_FY,2028 P90-P10 Ratio of Income Inequality (Esri),2028,count
+10659,RAT9050_FY,2028 P90-P50 Ratio,householdincome,householdincome.RAT9050_FY,householdincome_RAT9050_FY,2028 P90-P50 Ratio of Income Inequality (Esri),2028,count
+10660,RAT5010_FY,2028 P50-P10 Ratio,householdincome,householdincome.RAT5010_FY,householdincome_RAT5010_FY,2028 P50-P10 Ratio of Income Inequality (Esri),2028,count
+10661,SHR8020_FY,2028 80-20 Share Ratio,householdincome,householdincome.SHR8020_FY,householdincome_SHR8020_FY,2028 80-20 Share Ratio of Income Inequality (Esri 2023),2028,count
+10662,SHR9040_FY,2028 90-40 Share Ratio,householdincome,householdincome.SHR9040_FY,householdincome_SHR9040_FY,2028 90-40 Share Ratio of Income Inequality (Esri 2023),2028,count
+10663,LOTRHH_FY,2028 HH in Low Income Tier,householdincome,householdincome.LOTRHH_FY,householdincome_LOTRHH_FY,2028 Households in Low Income Tier (Esri 2023),2028,count
+10664,MDTRHH_FY,2028 HH in Middle Income Tier,householdincome,householdincome.MDTRHH_FY,householdincome_MDTRHH_FY,2028 Households in Middle Income Tier (Esri 2023),2028,count
+10665,UPTRHH_FY,2028 HH in Upper Income Tier,householdincome,householdincome.UPTRHH_FY,householdincome_UPTRHH_FY,2028 Households in Upper Income Tier (Esri),2028,count
+13719,CIVLBFR_CY,2023 Civ Pop 16+/Labor Force,industry,industry.CIVLBFR_CY,industry_CIVLBFR_CY,2023 Civilian Population Age 16+ in Labor Force (Esri),2023,count
+13720,EMP_CY,2023 Employed Civilian Pop 16+,industry,industry.EMP_CY,industry_EMP_CY,2023 Employed Civilian Population Age 16+ (Esri),2023,count
+13721,INDBASE_CY,2023 Emp 16+ by Industry Base,industry,industry.INDBASE_CY,industry_INDBASE_CY,2023 Employed Civilian Population Age 16+ by Industry Base (Esri),2023,count
+13722,INDAGRI_CY,2023 Industry: Agriculture,industry,industry.INDAGRI_CY,industry_INDAGRI_CY,2023 Industry: Agriculture/Forestry/Fishing/Hunting (Esri),2023,count
+13723,INDMIN_CY,2023 Industry: Mining,industry,industry.INDMIN_CY,industry_INDMIN_CY,2023 Industry: Mining/Quarrying/Oil & Gas Extraction (Esri),2023,count
+13724,INDCONS_CY,2023 Industry: Construction,industry,industry.INDCONS_CY,industry_INDCONS_CY,2023 Industry: Construction (Esri),2023,count
+13725,INDMANU_CY,2023 Industry: Manufacturing,industry,industry.INDMANU_CY,industry_INDMANU_CY,2023 Industry: Manufacturing (Esri),2023,count
+13726,INDWHTR_CY,2023 Industry: Wholesale Trade,industry,industry.INDWHTR_CY,industry_INDWHTR_CY,2023 Industry: Wholesale Trade (Esri),2023,count
+13727,INDRTTR_CY,2023 Industry: Retail Trade,industry,industry.INDRTTR_CY,industry_INDRTTR_CY,2023 Industry: Retail Trade (Esri),2023,count
+13728,INDTRAN_CY,2023 Industry: Transportation,industry,industry.INDTRAN_CY,industry_INDTRAN_CY,2023 Industry: Transportation/Warehousing (Esri),2023,count
+13729,INDUTIL_CY,2023 Industry: Utilities,industry,industry.INDUTIL_CY,industry_INDUTIL_CY,2023 Industry: Utilities (Esri),2023,count
+13730,INDINFO_CY,2023 Industry: Information,industry,industry.INDINFO_CY,industry_INDINFO_CY,2023 Industry: Information (Esri),2023,count
+13731,INDFIN_CY,2023 Industry: Finance/Insurance,industry,industry.INDFIN_CY,industry_INDFIN_CY,2023 Industry: Finance/Insurance (Esri),2023,count
+13732,INDRE_CY,2023 Industry: Real Estate,industry,industry.INDRE_CY,industry_INDRE_CY,2023 Industry: Real Estate/Rental/Leasing (Esri),2023,count
+13733,INDTECH_CY,2023 Industry: Professional/Tech Svcs,industry,industry.INDTECH_CY,industry_INDTECH_CY,2023 Industry: Professional/Scientific/Tech Services (Esri),2023,count
+13734,INDMGMT_CY,2023 Industry: Management,industry,industry.INDMGMT_CY,industry_INDMGMT_CY,2023 Industry: Management of Companies/Enterprises (Esri),2023,count
+13735,INDADMN_CY,2023 Industry: Admin/Waste Mgmt,industry,industry.INDADMN_CY,industry_INDADMN_CY,2023 Industry: Admin/Support/Waste Management Services (Esri),2023,count
+13736,INDEDUC_CY,2023 Industry: Educational Services,industry,industry.INDEDUC_CY,industry_INDEDUC_CY,2023 Industry: Educational Services (Esri),2023,count
+13737,INDHLTH_CY,2023 Industry: Health Care,industry,industry.INDHLTH_CY,industry_INDHLTH_CY,2023 Industry: Health Care/Social Assistance (Esri),2023,count
+13738,INDARTS_CY,2023 Industry: Arts/Entertainment/Rec,industry,industry.INDARTS_CY,industry_INDARTS_CY,2023 Industry: Arts/Entertainment/Recreation (Esri),2023,count
+13739,INDFOOD_CY,2023 Industry: Accommodation/Food Svcs,industry,industry.INDFOOD_CY,industry_INDFOOD_CY,2023 Industry: Accommodation/Food Services (Esri),2023,count
+13740,INDOTSV_CY,2023 Industry: Other Services,industry,industry.INDOTSV_CY,industry_INDOTSV_CY,2023 Industry: Other Services (excl Public Administration) (Esri),2023,count
+13741,INDPUBL_CY,2023 Industry: Public Administration,industry,industry.INDPUBL_CY,industry_INDPUBL_CY,2023 Industry: Public Administration (Esri),2023,count
+13742,UNEMP_CY,2023 Unemployed Population 16+,industry,industry.UNEMP_CY,industry_UNEMP_CY,2023 Unemployed Population Age 16+ (Esri),2023,count
+13743,UNEMPRT_CY,2023 Unemployment Rate,industry,industry.UNEMPRT_CY,industry_UNEMPRT_CY,2023 Unemployment Rate (Esri),2023,pct
+15777,CIVLBFR_CY,2023 Civ Pop 16+/Labor Force,occupation,occupation.CIVLBFR_CY,occupation_CIVLBFR_CY,2023 Civilian Population Age 16+ in Labor Force (Esri),2023,count
+15778,OCCBASE_CY,2023 Emp 16+ Occupation Base,occupation,occupation.OCCBASE_CY,occupation_OCCBASE_CY,2023 Employed Civilian Population Age 16+ by Occupation Base (Esri),2023,count
+15779,OCCMGMT_CY,2023 Occupation: Management,occupation,occupation.OCCMGMT_CY,occupation_OCCMGMT_CY,2023 Occupation: Management (Esri),2023,count
+15780,OCCBUS_CY,2023 Occupation: Business/Financial,occupation,occupation.OCCBUS_CY,occupation_OCCBUS_CY,2023 Occupation: Business/Financial (Esri),2023,count
+15781,OCCCOMP_CY,2023 Occupation: Computer/Mathematical,occupation,occupation.OCCCOMP_CY,occupation_OCCCOMP_CY,2023 Occupation: Computer/Mathematical (Esri),2023,count
+15782,OCCARCH_CY,2023 Occupation: Architecture/Engineer,occupation,occupation.OCCARCH_CY,occupation_OCCARCH_CY,2023 Occupation: Architecture/Engineering (Esri),2023,count
+15783,OCCSSCI_CY,2023 Occupation: Life/Social Sciences,occupation,occupation.OCCSSCI_CY,occupation_OCCSSCI_CY,2023 Occupation: Life/Physical/Social Science (Esri),2023,count
+15784,OCCSSRV_CY,2023 Occupation: Social Service,occupation,occupation.OCCSSRV_CY,occupation_OCCSSRV_CY,2023 Occupation: Community/Social Service (Esri),2023,count
+15785,OCCLEGL_CY,2023 Occupation: Legal,occupation,occupation.OCCLEGL_CY,occupation_OCCLEGL_CY,2023 Occupation: Legal (Esri),2023,count
+15786,OCCEDUC_CY,2023 Occupation: Education/Library,occupation,occupation.OCCEDUC_CY,occupation_OCCEDUC_CY,2023 Occupation: Education/Training/Library (Esri),2023,count
+15787,OCCENT_CY,2023 Occupation: Arts/Entertainment/Rec,occupation,occupation.OCCENT_CY,occupation_OCCENT_CY,2023 Occupation: Arts/Design/Entertainment/Sports/Media (Esri),2023,count
+15788,OCCHTCH_CY,2023 Occupation: Health Practices,occupation,occupation.OCCHTCH_CY,occupation_OCCHTCH_CY,2023 Occupation: Healthcare Practitioner/Technician (Esri),2023,count
+15789,OCCHLTH_CY,2023 Occupation: Health Support,occupation,occupation.OCCHLTH_CY,occupation_OCCHLTH_CY,2023 Occupation: Healthcare Support (Esri),2023,count
+15790,OCCPROT_CY,2023 Occupation: Protective Service,occupation,occupation.OCCPROT_CY,occupation_OCCPROT_CY,2023 Occupation: Protective Service (Esri),2023,count
+15791,OCCFOOD_CY,2023 Occupation: Food Preparation,occupation,occupation.OCCFOOD_CY,occupation_OCCFOOD_CY,2023 Occupation: Food Preparation/Serving Related (Esri),2023,count
+15792,OCCBLDG_CY,2023 Occupation: Building Maintenance,occupation,occupation.OCCBLDG_CY,occupation_OCCBLDG_CY,2023 Occupation: Building/Grounds Cleaning/Maintenance (Esri),2023,count
+15793,OCCPERS_CY,2023 Occupation: Personal Care,occupation,occupation.OCCPERS_CY,occupation_OCCPERS_CY,2023 Occupation: Personal Care/Service (Esri),2023,count
+15794,OCCSALE_CY,2023 Occupation: Sales,occupation,occupation.OCCSALE_CY,occupation_OCCSALE_CY,2023 Occupation: Sales and Sales Related (Esri),2023,count
+15795,OCCADMN_CY,2023 Occupation: Office/Admin,occupation,occupation.OCCADMN_CY,occupation_OCCADMN_CY,2023 Occupation: Office/Administrative Support (Esri),2023,count
+15796,OCCFARM_CY,2023 Occupation: Farm/Fish/Forestry,occupation,occupation.OCCFARM_CY,occupation_OCCFARM_CY,2023 Occupation: Farming/Fishing/Forestry (Esri),2023,count
+15797,OCCCONS_CY,2023 Occupation: Construction/Extraction,occupation,occupation.OCCCONS_CY,occupation_OCCCONS_CY,2023 Occupation: Construction/Extraction (Esri),2023,count
+15798,OCCMAIN_CY,2023 Occupation: Maintenance/Repair,occupation,occupation.OCCMAIN_CY,occupation_OCCMAIN_CY,2023 Occupation: Installation/Maintenance/Repair (Esri),2023,count
+15799,OCCPROD_CY,2023 Occupation: Production,occupation,occupation.OCCPROD_CY,occupation_OCCPROD_CY,2023 Occupation: Production (Esri),2023,count
+15800,OCCTRAN_CY,2023 Occupation: Transportation/Moving,occupation,occupation.OCCTRAN_CY,occupation_OCCTRAN_CY,2023 Occupation: Transportation/Material Moving (Esri),2023,count
+15867,OWNER_CY,2023 Owner Occupied HUs,OwnerRenter,OwnerRenter.OWNER_CY,OwnerRenter_OWNER_CY,2023 Owner Occupied Housing Units (Esri),2023,count
+15868,RENTER_CY,2023 Renter Occupied HUs,OwnerRenter,OwnerRenter.RENTER_CY,OwnerRenter_RENTER_CY,2023 Renter Occupied Housing Units (Esri),2023,count
+15869,OWNER_FY,2028 Owner Occupied HUs,OwnerRenter,OwnerRenter.OWNER_FY,OwnerRenter_OWNER_FY,2028 Owner Occupied Housing Units (Esri),2028,count
+15870,RENTER_FY,2028 Renter Occupied HUs,OwnerRenter,OwnerRenter.RENTER_FY,OwnerRenter_RENTER_FY,2028 Renter Occupied Housing Units (Esri),2028,count
+15876,RNTGRWCYFY,2023-2028 Growth Rate: Renter Occ HUs,OwnerRenter,OwnerRenter.RNTGRWCYFY,OwnerRenter_RNTGRWCYFY,2023-2028 Renter Occupied Housing Units: Compound Annual Growth Rate (Esri),2028,pct
+20605,TOTHH_CY,2023 Total Households,Wealth,Wealth.TOTHH_CY,Wealth_TOTHH_CY,2023 Total Households (Esri),2023,count
+20606,HINC0_CY,2023 HH Income <$15000,Wealth,Wealth.HINC0_CY,Wealth_HINC0_CY,"2023 Household Income less than $15,000 (Esri)",2023,count
+20607,HINC15_CY,2023 HH Income $15000-24999,Wealth,Wealth.HINC15_CY,Wealth_HINC15_CY,"2023 Household Income $15,000-$24,999 (Esri)",2023,count
+20608,HINC25_CY,2023 HH Income $25000-34999,Wealth,Wealth.HINC25_CY,Wealth_HINC25_CY,"2023 Household Income $25,000-$34,999 (Esri)",2023,count
+20609,HINC35_CY,2023 HH Income $35000-49999,Wealth,Wealth.HINC35_CY,Wealth_HINC35_CY,"2023 Household Income $35,000-$49,999 (Esri)",2023,count
+20610,HINC50_CY,2023 HH Income $50000-74999,Wealth,Wealth.HINC50_CY,Wealth_HINC50_CY,"2023 Household Income $50,000-$74,999 (Esri)",2023,count
+20611,HINC75_CY,2023 HH Income $75000-99999,Wealth,Wealth.HINC75_CY,Wealth_HINC75_CY,"2023 Household Income $75,000-$99,999 (Esri)",2023,count
+20612,HINC100_CY,2023 HH Income $100000-149999,Wealth,Wealth.HINC100_CY,Wealth_HINC100_CY,"2023 Household Income $100,000-$149,999 (Esri)",2023,count
+20613,HINC150_CY,2023 HH Income $150000-199999,Wealth,Wealth.HINC150_CY,Wealth_HINC150_CY,"2023 Household Income $150,000-$199,999 (Esri)",2023,count
+20614,HINC200_CY,2023 HH Income $200000+,Wealth,Wealth.HINC200_CY,Wealth_HINC200_CY,"2023 Household Income $200,000 or greater (Esri)",2023,count
+20615,MEDHINC_CY,2023 Median Household Income,Wealth,Wealth.MEDHINC_CY,Wealth_MEDHINC_CY,2023 Median Household Income (Esri),2023,currency
+20616,AVGHINC_CY,2023 Average Household Income,Wealth,Wealth.AVGHINC_CY,Wealth_AVGHINC_CY,2023 Average Household Income (Esri),2023,currency
+20617,PCI_CY,2023 Per Capita Income,Wealth,Wealth.PCI_CY,Wealth_PCI_CY,2023 Per Capita Income (Esri),2023,currency
+20618,AGGINC_CY,2023 Aggregate Income,Wealth,Wealth.AGGINC_CY,Wealth_AGGINC_CY,2023 Aggregate Income (Esri),2023,currency
+20619,AGGHINC_CY,2023 Aggregate HH Income,Wealth,Wealth.AGGHINC_CY,Wealth_AGGHINC_CY,2023 Aggregate Household Income (Esri),2023,currency
+20620,HINCBASECY,2023 Households by Income Base,Wealth,Wealth.HINCBASECY,Wealth_HINCBASECY,2023 Households by Income Base (Esri),2023,count
+20621,AVGIA15_CY,2023 Avg HH Income: HHr 15-24,Wealth,Wealth.AVGIA15_CY,Wealth_AVGIA15_CY,2023 Average Household Income: HHr Age 15-24 (Esri),2023,currency
+20622,AVGIA25_CY,2023 Avg HH Income: HHr 25-34,Wealth,Wealth.AVGIA25_CY,Wealth_AVGIA25_CY,2023 Average Household Income: HHr Age 25-34 (Esri),2023,currency
+20623,AVGIA35_CY,2023 Avg HH Income: HHr 35-44,Wealth,Wealth.AVGIA35_CY,Wealth_AVGIA35_CY,2023 Average Household Income: HHr Age 35-44 (Esri),2023,currency
+20624,AVGIA45_CY,2023 Avg HH Income: HHr 45-54,Wealth,Wealth.AVGIA45_CY,Wealth_AVGIA45_CY,2023 Average Household Income: HHr Age 45-54 (Esri),2023,currency
+20625,AVGIA55_CY,2023 Avg HH Income: HHr 55-64,Wealth,Wealth.AVGIA55_CY,Wealth_AVGIA55_CY,2023 Average Household Income: HHr Age 55-64 (Esri),2023,currency
+20626,AVGIA65_CY,2023 Avg HH Income: HHr 65-74,Wealth,Wealth.AVGIA65_CY,Wealth_AVGIA65_CY,2023 Average Household Income: HHr Age 65-74 (Esri),2023,currency
+20627,AVGIA75_CY,2023 Avg HH Income: HHr 75+,Wealth,Wealth.AVGIA75_CY,Wealth_AVGIA75_CY,2023 Average Household Income: HHr Age 75+ (Esri),2023,currency
+20628,DI0_CY,2023 Disposable Inc <$15000,Wealth,Wealth.DI0_CY,Wealth_DI0_CY,"2023 Disposable Income less than $15,000 (Esri)",2023,count
+20629,DI15_CY,2023 Disposable Inc $15000-$24999,Wealth,Wealth.DI15_CY,Wealth_DI15_CY,"2023 Disposable Income $15,000-$24,999 (Esri)",2023,count
+20630,DI25_CY,2023 Disposable Inc $25000-$34999,Wealth,Wealth.DI25_CY,Wealth_DI25_CY,"2023 Disposable Income $25,000-$34,999 (Esri)",2023,count
+20631,DI35_CY,2023 Disposable Inc $35000-$49999,Wealth,Wealth.DI35_CY,Wealth_DI35_CY,"2023 Disposable Income $35,000-$49,999 (Esri)",2023,count
+20632,DI50_CY,2023 Disposable Inc $50000-$74999,Wealth,Wealth.DI50_CY,Wealth_DI50_CY,"2023 Disposable Income $50,000-$74,999 (Esri)",2023,count
+20633,DI75_CY,2023 Disposable Inc $75000-$99999,Wealth,Wealth.DI75_CY,Wealth_DI75_CY,"2023 Disposable Income $75,000-$99,999 (Esri)",2023,count
+20634,DI100_CY,2023 Disposable Inc $100000-$149999,Wealth,Wealth.DI100_CY,Wealth_DI100_CY,"2023 Disposable Income $100,000-$149,999 (Esri)",2023,count
+20635,DI150_CY,2023 Disposable Inc $150000-$199999,Wealth,Wealth.DI150_CY,Wealth_DI150_CY,"2023 Disposable Income $150,000-$199,999 (Esri)",2023,count
+20636,DI200_CY,2023 Disposable Inc $200000+,Wealth,Wealth.DI200_CY,Wealth_DI200_CY,"2023 Disposable Income $200,000 or greater (Esri)",2023,count
+20637,MEDDI_CY,2023 Median Disposable Income,Wealth,Wealth.MEDDI_CY,Wealth_MEDDI_CY,2023 Median Disposable Income (Esri),2023,currency
+20638,AGGDI_CY,2023 Aggregate Disposable Income,Wealth,Wealth.AGGDI_CY,Wealth_AGGDI_CY,2023 Aggregate Disposable Income (Esri),2023,currency
+20639,AVGDI_CY,2023 Average Disposable Income,Wealth,Wealth.AVGDI_CY,Wealth_AVGDI_CY,2023 Average Disposable Income (Esri),2023,currency
+20640,DIBASE_CY,2023 Disposable Income Base,Wealth,Wealth.DIBASE_CY,Wealth_DIBASE_CY,2023 Households by Disposable Income Base (Esri),2023,count
+20641,NW0_CY,2023 Net Worth <$15000,Wealth,Wealth.NW0_CY,Wealth_NW0_CY,"2023 Net Worth less than $15,000 (Esri)",2023,count
+20642,NW15_CY,2023 Net Worth $15000-$34999,Wealth,Wealth.NW15_CY,Wealth_NW15_CY,"2023 Net Worth $15,000-$34,999 (Esri)",2023,count
+20643,NW35_CY,2023 Net Worth $35000-$49999,Wealth,Wealth.NW35_CY,Wealth_NW35_CY,"2023 Net Worth $35,000-$49,999 (Esri)",2023,count
+20644,NW50_CY,2023 Net Worth $50000-$74999,Wealth,Wealth.NW50_CY,Wealth_NW50_CY,"2023 Net Worth $50,000-$74,999 (Esri)",2023,count
+20645,NW75_CY,2023 Net Worth $75000-$99999,Wealth,Wealth.NW75_CY,Wealth_NW75_CY,"2023 Net Worth $75,000-$99,999 (Esri)",2023,count
+20646,NW100_CY,2023 Net Worth $100000-$149999,Wealth,Wealth.NW100_CY,Wealth_NW100_CY,"2023 Net Worth $100,000-$149,999 (Esri)",2023,count
+20647,NW150_CY,2023 Net Worth $150000-$249999,Wealth,Wealth.NW150_CY,Wealth_NW150_CY,"2023 Net Worth $150,000-$249,999 (Esri)",2023,count
+20648,NW250_CY,2023 Net Worth $250000-$499999,Wealth,Wealth.NW250_CY,Wealth_NW250_CY,"2023 Net Worth $250,000-$499,999 (Esri)",2023,count
+20649,NW500_CY,2023 Net Worth $500000-$999999,Wealth,Wealth.NW500_CY,Wealth_NW500_CY,"2023 Net Worth $500,000-$999,999 (Esri)",2023,count
+20650,MEDNW_CY,2023 Median Net Worth,Wealth,Wealth.MEDNW_CY,Wealth_MEDNW_CY,2023 Median Net Worth (Esri),2023,currency
+20651,AVGNW_CY,2023 Average Net Worth,Wealth,Wealth.AVGNW_CY,Wealth_AVGNW_CY,2023 Average Net Worth (Esri),2023,currency
+20652,AGGNW_CY,2023 Aggregate Net Worth,Wealth,Wealth.AGGNW_CY,Wealth_AGGNW_CY,2023 Aggregate Net Worth (Esri),2023,currency
+20653,NWBASE_CY,2023 Net Worth Base,Wealth,Wealth.NWBASE_CY,Wealth_NWBASE_CY,2023 Households by Net Worth Base (Esri),2023,count
+20654,VAL0_CY,2023 Home Value <$50000,Wealth,Wealth.VAL0_CY,Wealth_VAL0_CY,"2023 Home Value less than $50,000 (Esri)",2023,count
+20655,VAL50K_CY,2023 Home Value $50K-99999,Wealth,Wealth.VAL50K_CY,Wealth_VAL50K_CY,"2023 Home Value $50,000-$99,999 (Esri)",2023,count
+20656,VAL100K_CY,2023 Home Value $100K-149999,Wealth,Wealth.VAL100K_CY,Wealth_VAL100K_CY,"2023 Home Value $100,000-$149,999 (Esri)",2023,count
+20657,VAL150K_CY,2023 Home Value $150K-199999,Wealth,Wealth.VAL150K_CY,Wealth_VAL150K_CY,"2023 Home Value $150,000-$199,999 (Esri)",2023,count
+20658,VAL200K_CY,2023 Home Value $200K-249999,Wealth,Wealth.VAL200K_CY,Wealth_VAL200K_CY,"2023 Home Value $200,000-$249,999 (Esri)",2023,count
+20659,VAL250K_CY,2023 Home Value $250K-299999,Wealth,Wealth.VAL250K_CY,Wealth_VAL250K_CY,"2023 Home Value $250,000-$299,999 (Esri)",2023,count
+20660,VAL300K_CY,2023 Home Value $300K-399999,Wealth,Wealth.VAL300K_CY,Wealth_VAL300K_CY,"2023 Home Value $300,000-$399,999 (Esri)",2023,count
+20661,VAL400K_CY,2023 Home Value $400K-499999,Wealth,Wealth.VAL400K_CY,Wealth_VAL400K_CY,"2023 Home Value $400,000-$499,999 (Esri)",2023,count
+20662,VAL500K_CY,2023 Home Value $500K-749999,Wealth,Wealth.VAL500K_CY,Wealth_VAL500K_CY,"2023 Home Value $500,000-$749,999 (Esri)",2023,count
+20663,VAL750K_CY,2023 Home Value $750K-999999,Wealth,Wealth.VAL750K_CY,Wealth_VAL750K_CY,"2023 Home Value $750,000-$999,999 (Esri)",2023,count
+20664,VAL1M_CY,2023 Home Value $1 Million-1499999,Wealth,Wealth.VAL1M_CY,Wealth_VAL1M_CY,"2023 Home Value $1,000,000-$1,499,999 (Esri)",2023,count
+20665,MEDVAL_CY,2023 Median Home Value,Wealth,Wealth.MEDVAL_CY,Wealth_MEDVAL_CY,2023 Median Home Value (Esri),2023,currency
+20666,AVGVAL_CY,2023 Average Home Value,Wealth,Wealth.AVGVAL_CY,Wealth_AVGVAL_CY,2023 Average Home Value (Esri),2023,currency
+20667,VALBASE_CY,2023 Home Value Base,Wealth,Wealth.VALBASE_CY,Wealth_VALBASE_CY,2023 Owner Occupied Housing Units by Value Base (Esri),2023,count
+20668,HINC0_FY,2028 HH Income <$15000,Wealth,Wealth.HINC0_FY,Wealth_HINC0_FY,"2028 Household Income less than $15,000 (Esri)",2028,count
+20669,HINC15_FY,2028 HH Income $15000-24999,Wealth,Wealth.HINC15_FY,Wealth_HINC15_FY,"2028 Household Income $15,000-$24,999 (Esri)",2028,count
+20670,HINC25_FY,2028 HH Income $25000-34999,Wealth,Wealth.HINC25_FY,Wealth_HINC25_FY,"2028 Household Income $25,000-$34,999 (Esri)",2028,count
+20671,HINC35_FY,2028 HH Income $35000-49999,Wealth,Wealth.HINC35_FY,Wealth_HINC35_FY,"2028 Household Income $35,000-$49,999 (Esri)",2028,count
+20672,HINC50_FY,2028 HH Income $50000-74999,Wealth,Wealth.HINC50_FY,Wealth_HINC50_FY,"2028 Household Income $50,000-$74,999 (Esri)",2028,count
+20673,HINC75_FY,2028 HH Income $75000-99999,Wealth,Wealth.HINC75_FY,Wealth_HINC75_FY,"2028 Household Income $75,000-$99,999 (Esri)",2028,count
+20674,HINC100_FY,2028 HH Income $100000-149999,Wealth,Wealth.HINC100_FY,Wealth_HINC100_FY,"2028 Household Income $100,000-$149,999 (Esri)",2028,count
+20675,HINC150_FY,2028 HH Income $150000-199999,Wealth,Wealth.HINC150_FY,Wealth_HINC150_FY,"2028 Household Income $150,000-$199,999 (Esri)",2028,count
+20676,HINC200_FY,2028 HH Income $200000+,Wealth,Wealth.HINC200_FY,Wealth_HINC200_FY,"2028 Household Income $200,000 or greater (Esri)",2028,count
+20677,MEDHINC_FY,2028 Median Household Income,Wealth,Wealth.MEDHINC_FY,Wealth_MEDHINC_FY,2028 Median Household Income (Esri),2028,currency
+20678,AVGHINC_FY,2028 Average Household Income,Wealth,Wealth.AVGHINC_FY,Wealth_AVGHINC_FY,2028 Average Household Income (Esri),2028,currency
+20679,PCI_FY,2028 Per Capita Income,Wealth,Wealth.PCI_FY,Wealth_PCI_FY,2028 Per Capita Income (Esri),2028,currency
+20680,AGGINC_FY,2028 Aggregate Income,Wealth,Wealth.AGGINC_FY,Wealth_AGGINC_FY,2028 Aggregate Income (Esri),2028,currency
+20681,AGGHINC_FY,2028 Aggregate HH Income,Wealth,Wealth.AGGHINC_FY,Wealth_AGGHINC_FY,2028 Aggregate Household Income (Esri),2028,currency
+20682,HINCBASEFY,2028 Households by Income Base,Wealth,Wealth.HINCBASEFY,Wealth_HINCBASEFY,2028 Households by Income Base (Esri),2028,count
+20683,VAL0_FY,2028 Home Value <$50000,Wealth,Wealth.VAL0_FY,Wealth_VAL0_FY,"2028 Home Value less than $50,000 (Esri)",2028,count
+20684,VAL50K_FY,2028 Home Value $50K-99999,Wealth,Wealth.VAL50K_FY,Wealth_VAL50K_FY,"2028 Home Value $50,000-$99,999 (Esri)",2028,count
+20685,VAL100K_FY,2028 Home Value $100K-149999,Wealth,Wealth.VAL100K_FY,Wealth_VAL100K_FY,"2028 Home Value $100,000-$149,999 (Esri)",2028,count
+20686,VAL150K_FY,2028 Home Value $150K-199999,Wealth,Wealth.VAL150K_FY,Wealth_VAL150K_FY,"2028 Home Value $150,000-$199,999 (Esri)",2028,count
+20687,VAL200K_FY,2028 Home Value $200K-249999,Wealth,Wealth.VAL200K_FY,Wealth_VAL200K_FY,"2028 Home Value $200,000-$249,999 (Esri)",2028,count
+20688,VAL250K_FY,2028 Home Value $250K-299999,Wealth,Wealth.VAL250K_FY,Wealth_VAL250K_FY,"2028 Home Value $250,000-$299,999 (Esri)",2028,count
+20689,VAL300K_FY,2028 Home Value $300K-399999,Wealth,Wealth.VAL300K_FY,Wealth_VAL300K_FY,"2028 Home Value $300,000-$399,999 (Esri)",2028,count
+20690,VAL400K_FY,2028 Home Value $400K-499999,Wealth,Wealth.VAL400K_FY,Wealth_VAL400K_FY,"2028 Home Value $400,000-$499,999 (Esri)",2028,count
+20691,VAL500K_FY,2028 Home Value $500K-749999,Wealth,Wealth.VAL500K_FY,Wealth_VAL500K_FY,"2028 Home Value $500,000-$749,999 (Esri)",2028,count
+20692,VAL750K_FY,2028 Home Value $750K-999999,Wealth,Wealth.VAL750K_FY,Wealth_VAL750K_FY,"2028 Home Value $750,000-$999,999 (Esri)",2028,count
+20693,VAL1M_FY,2028 Home Value $1 Million-1499999,Wealth,Wealth.VAL1M_FY,Wealth_VAL1M_FY,"2028 Home Value $1,000,000-1,499,999 (Esri)",2028,count
+20694,MEDVAL_FY,2028 Median Home Value,Wealth,Wealth.MEDVAL_FY,Wealth_MEDVAL_FY,2028 Median Home Value (Esri),2028,currency
+20695,AVGVAL_FY,2028 Average Home Value,Wealth,Wealth.AVGVAL_FY,Wealth_AVGVAL_FY,2028 Average Home Value (Esri),2028,currency
+20696,VALBASE_FY,2028 Home Value Base,Wealth,Wealth.VALBASE_FY,Wealth_VALBASE_FY,2028 Owner Occupied Housing Units by Value Base (Esri),2028,count
+20697,WLTHINDXCY,2023 Wealth Index,Wealth,Wealth.WLTHINDXCY,Wealth_WLTHINDXCY,2023 Wealth Index (Esri),2023,count
+20698,SEI_CY,2023 Socioeconomic Status Index,Wealth,Wealth.SEI_CY,Wealth_SEI_CY,2023 Socioeconomic Status Index (Esri),2023,count
